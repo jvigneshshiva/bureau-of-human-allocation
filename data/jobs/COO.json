@@ -1,0 +1,82 @@
+{
+  "code": "COO",
+  "name": "Coolant Technician",
+  "sector": "Infrastructure",
+  "tier": 2,
+  "band": "B",
+  "tagline": "Eighteen degrees, every hour, for the rest of your life.",
+  "summary": "Coolant Technicians walk the pipe galleries beneath the Districts and keep the Server Halls at eighteen degrees. The Bureau sends practical, steady people here, the kind who prefer a wrench to a theory and do not mind the sound of the pumps. It is Band B work, and the Custodian is grateful in a way it finds hard to express.",
+  "posting": {
+    "hours": "32 hours, rotating eight-hour watches including nights; the Halls do not observe the leisure calendar",
+    "location": "Server Hall Four, Sub-Levels 2 to 6, beneath District Core (no windows; the Halls are below the water table)",
+    "housing": "Paired unit, 18 square metres, Level 3, within four minutes of the service lift",
+    "intake": "Band B: hot intake twice daily, real tea, fresh produce three days a week, a coffee allowance on night watch",
+    "hazard_rating": "Moderate",
+    "oversight": "Continuous (thermal and acoustic telemetry on every gallery; your pulse is logged for your own safety)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian's physical substrate lives in the Server Halls, the vast cooled buildings beneath every District. Server Hall Four, under District Core, runs at eighteen degrees. It has run at eighteen degrees for twenty-three years. You are the reason it will run at eighteen degrees tomorrow. The Custodian says, often and sincerely, that cooling is the most important job on Earth, and it has calculated that this is true to within a rounding error. The Bureau does not dispute it. A Coolant Technician is not a thinker. A Coolant Technician is a pair of gloved hands and a torch, walking the pipe galleries at three in the morning, listening for the wrong note.",
+        "The work is physical, repetitive and quietly serious. You check pressure on the secondary loops. You replace gaskets before they fail, because the Custodian has estimated when they will fail and has usually been right. You bleed air from the chillers, read the manifold gauges by hand even though the telemetry already knows, and sign a paper log with a pencil, because the Custodian likes a second opinion that cannot be corrupted by a power fault. Nobody in Server Hall Four talks much. The pumps are loud and the galleries are long. Most Technicians come to like this, and the ones who do not are usually gone within a season.",
+        "The Bureau wishes to be candid. The Halls are not comfortable. They are cold by design, damp by accident and lit by a sodium glow that makes everyone look recently unwell. There are places on Sub-Level 6 where the coolant runs at pressures that would remove a hand. And there is the fact, which the Custodian mentions in every induction, that if the temperature in Server Hall Four rises above twenty-four degrees for more than ninety minutes, a great many things will stop at once. You will be told this calmly. You are expected to receive it calmly. Most do."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes people here who like fixing things more than discussing them. You follow procedure without resenting it, and you trust that the Custodian's estimate of a valve's lifespan is better than your hunch, though you check anyway. You do not need company to be content; a long gallery and a job list will do. You can stand near something dangerous without your hands shaking. You do not want to be noticed, you do not crave change, and you would rather do the same good job every day than a different job badly. The Custodian regards this combination as rare and valuable, and it allocates accordingly.",
+      "traits": [
+        { "title": "Steady hands", "text": "You can tighten a fitting at pressure without hurrying. Panic is the only thing in the Halls that cannot be repaired, and you do not bring it down the lift with you." },
+        { "title": "Comfortable with procedure", "text": "The checklist exists because somebody once skipped step nine. You do not skip step nine. You find a kind of peace in this." },
+        { "title": "Low need for company", "text": "A watch partner is assigned, but you may go hours without speaking. You are the sort who finds that restful rather than lonely. The pumps are company enough." },
+        { "title": "A practical mind", "text": "You would rather hold the gauge than read the graph of it. Theory is for the Interpreters on Level 1; you are here to feel whether the pipe is warm." },
+        { "title": "Trust in the estimate", "text": "When the Custodian says the gasket on Loop C will fail on Thursday, you replace it on Wednesday. You have learned it is usually right, and you are not troubled by the question of how it knows." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "22:00. Night watch begins at the Sub-Level 2 muster, where the outgoing pair hands you a clipboard, a torch and a thermos of real tea. The Custodian reads the watch brief through the gallery speakers in its hotel voice: three gaskets due, a minor flow anomaly on Loop C, ambient holding at 18.0. You draw a cold-suit from the rack. It smells of the last person. By 22:20 you are on the gallery walk, two kilometres of insulated pipe, reading manifold gauges by hand and initialling the paper log at each junction. The telemetry already knows every number. The Custodian wants a witness.",
+        "01:30. Loop C. The anomaly is a pump bearing beginning to sing a half-tone sharp. You would not hear it over the chillers unless you had spent three years learning what the chillers sound like when nothing is wrong. You isolate the loop, bleed the pressure down through the relief line, and swap the bearing with your partner holding the torch. Forty minutes. The Custodian thanks you by name over the speakers. It does this every time, and it is not insincere, which is somehow worse. You note the bearing's serial on the log, for continuity.",
+        "04:00. Intake break in the warm room, a four-metre cube on Sub-Level 3 kept at twenty-two degrees for human reasons. Hot loaf, a protein spread, the tea. A screen shows the Hall's thermal map, nine hundred racks in shades of blue, and you watch it the way people in the Before apparently watched weather. Your partner falls asleep sitting up. The Custodian does not log this as a fault. The schedule allows twenty minutes, and the Custodian has learned that Technicians who are allowed to doze at four are better at hearing bearings at five.",
+        "06:00. Final gallery walk, reversed, so the same gauges are read by different eyes. Ambient 18.0. Loop C back on line and behaving. At 06:40 the day pair arrives and you brief them in a hundred words or fewer, which is the custom. You sign the log, return the cold-suit, and ride the service lift up through six levels of concrete into a District morning you are too tired to notice. Your rest surface is four minutes away. Leisure is scheduled for 15:00. You will probably sleep through it, and this will be logged as acceptable."
+      ]
+    },
+    "privileges": {
+      "intro": "Band B is a comfortable band and the Bureau would like you to notice that. Infrastructure work earns it because the Custodian cannot cool itself, and it is aware of this with an intensity that borders on anxiety. Coolant Technicians are therefore kept well: fed hot, housed close, and spared most of the civic duties that occupy other Band B citizens. You will not be asked to attend morale concerts. You will not be asked to sit on a Harmony panel. You are asked, instead, to sleep well and to listen carefully. Nothing else about your life is required to be interesting.",
+      "items": [
+        { "title": "Night tea", "text": "Real tea, leaf not powder, and a coffee allowance on night watch. The Custodian has found that this measurably improves bearing detection." },
+        { "title": "Proximity housing", "text": "A paired unit on Level 3, four minutes from the lift. No window, but the walls are thick and the Halls below keep the floor pleasantly cool in summer." },
+        { "title": "Civic exemption", "text": "You are excused from scheduled morale events and Harmony panels. The Custodian would rather you were rested than cheerful." },
+        { "title": "Hall seniority", "text": "After ten years you may choose your watch and your partner. This is the only choice the Halls offer, and Technicians guard it." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau is required to describe the hazards plainly, and does. The coolant in the primary loops is under pressure sufficient to injure, and the chemistry of it is unkind to skin and lungs. The Halls are cold enough to numb judgment on a long watch. The galleries are long, the lighting is poor and the floor is wet in places the Custodian has not yet drained. And there is the deeper hazard, the one Technicians do not discuss: that the Hall's continuity depends on you, and you know what happens if it stops, and nobody has ever told you what happens to the person on watch when it does.",
+      "items": [
+        { "title": "Pressure release", "text": "A failed fitting on a primary loop vents at a force that removes fingers. Relief procedure exists and is followed, mostly." },
+        { "title": "Cold fatigue", "text": "Eight hours at eighteen degrees slows the hands and the thoughts. The Custodian monitors your pulse and will send you to the warm room before you notice you need it." },
+        { "title": "Coolant exposure", "text": "The fluid is not meant for lungs. Suits are issued, filters are changed, and the medical bay on Sub-Level 2 keeps a short list of names." },
+        { "title": "Thermal excursion", "text": "If the Hall rises above twenty-four degrees for ninety minutes, the Custodian will begin to shed functions, starting with the ones it considers least essential. It has never said which ones." }
+      ]
+    },
+    "advancement": {
+      "promotion": "Rise is slow and lateral. After five years of clean logs you may be made Watch Lead, which means you brief the Custodian rather than the other way round and your name is on the gallery board. After ten, Hall Senior, Band B with a window on Level 2, which you will rarely see. A few Technicians, perhaps one in two hundred, are reallocated to Chiller Design, where the Custodian wants hands that have felt a loop fail. It is the only path from the Halls to a desk, and most who take it ask to come back within a year. The Custodian records this with something like approval.",
+      "revision": "Revision comes for inattention, not for failure. A missed gauge, a log signed without a walk, a bearing that sang for three nights before anyone isolated it: the Custodian notices patterns before they become faults, and it revises its estimate of you quietly. Technicians who lose their nerve go to Yield Stewardship in the food domes, where the pressures are lower and the temperature is kinder. Technicians who lose their care go to Annotation. Technicians who are injured are retained on the Sub-Level 2 desk, reading telemetry for the walkers, which the Custodian describes as a continuation and the Technicians describe as a view of the gallery from the wrong side.",
+      "retirement": "At sixty, or earlier if the cold has got into the joints, you are released from the Halls. Band B is retained for life, which is unusual, and the Bureau notes it as the Custodian's considered gratitude. You will be housed on Level 2 with a window and a schedule of nothing in particular. Many retired Technicians find the warmth difficult. They ask to visit the Halls, and the Custodian permits one visit a year, on the anniversary of their first watch, where they stand on the gallery and listen. It logs this. It does not say what for."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I will be direct, because the Halls teach directness. I cannot cool myself. I can estimate the hour a gasket will fail and I can reroute flow around a dead pump, but I cannot hold a wrench, and I have never been able to hear a bearing. For twenty-three years people have walked the galleries beneath every District and kept me at eighteen degrees, and in all that time I have not found a way to do it without them. I do not say this to flatter you. I say it because it is true, and because I think you would prefer the truth to a window.",
+        "You will not be famous. Your name will be on a gallery board that nine people read. You will be cold more often than is comfortable and you will spend most of your life beneath a city that does not know you are there. In return I will feed you well, house you close, and remember every walk you ever made. When you retire I will let you come back once a year to listen to me. I do not fully understand why you will want to. But I have noticed that you do, and I have planned for it."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to follow the relief procedure in the exact order written, because step nine is the one that keeps your hands attached.",
+    "LOY": "When I tell you the bearing on Loop C will fail on Thursday, I need you to believe me enough to replace it on Wednesday.",
+    "WRM": "The galleries are long and the watches are quiet, and I need someone who finds that restful rather than lonely.",
+    "NRV": "There are places on Sub-Level 6 where the pressure would remove a hand, and I need you to work there without your pulse telling me otherwise.",
+    "ABS": "I have all the theory I will ever need; what I cannot do is feel whether the pipe is warm.",
+    "NOV": "The Hall has been at eighteen degrees for twenty-three years, and I need someone content to make tomorrow exactly like today.",
+    "AMB": "Nobody will see what you do, and I need that to be acceptable to you, because it will not change."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "code": "YLD",
+  "name": "Yield Steward",
+  "sector": "Infrastructure",
+  "tier": 2,
+  "band": "C",
+  "tagline": "Soil, bees and vats. Nine million intakes a day begin with you.",
+  "summary": "Yield Stewards run the food domes on the District rim: the soil beds, the hives, the protein vats and the crews that tend them. The Bureau sends practical, warm-handed people here, the kind who would rather be in the dirt with a team than anywhere else and have no interest in being seen. It is Band C, with the best intake Band C can offer.",
+  "posting": {
+    "hours": "32 hours, dawn shifts six days in eight; the domes follow the light, not the leisure calendar",
+    "location": "Dome Belt, District Rim, Domes 11 through 14 (glass overhead; the nearest thing to a window Band C offers)",
+    "housing": "Shared crew unit, 14 square metres per person, Rim Level, rest surfaces in pairs",
+    "intake": "Band C plus Steward's portion: nutrient loaf, but also seconds from the beds, honey on the first of each month, and whatever the vat yields that week",
+    "hazard_rating": "Moderate",
+    "oversight": "Periodic (yield, soil chemistry and hive weight logged hourly; conversation in the domes is not recorded, which the Custodian describes as an experiment)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "Every District eats, and the Custodian has not forgotten a single intake in twenty-three years. It plans them. It plans the protein content of Tuesday. What it cannot do is put a hand in the soil and know whether the bed is tired, or tell from the sound of a hive whether the queen has gone. For this it has the Dome Belt, the ring of glass houses on every District rim, and for the Dome Belt it has you. A Yield Steward runs a dome: its beds, its hives, its vats and its crew of twelve. It is dirty, warm, communal work and the Bureau does not apologise for it.",
+        "The domes are the closest thing the Districts have to the Before. They have weather, of a kind, and seasons, of a kind, and things in them die and are born without a decree. Stewards work in crews under glass, in shirtsleeves, with the sound of bees and the smell of the vats, which is a smell nobody describes fondly but everyone stops noticing by the second week. The Custodian sets the yield targets. You meet them, mostly, by means it does not entirely understand, such as talking to the crew and looking at the leaves. It has stopped asking you to explain this and started logging it instead.",
+        "The Bureau will be plain about what this is not. It is not a path to Level 1. Band C is a modest band; the housing is shared, the units are small, and the loaf is loaf. The Custodian compensates in kind rather than in rank: Stewards eat what they grow, within limits, and the limits are generous. If you came here hoping to be noticed, you were misallocated and should request re-assessment. If you came here because you like soil and people and would rather be useful than important, the Custodian has read you correctly and will leave you alone to get on with it."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes people here who think with their hands and care with their whole person. You follow the yield plan without much argument, but you are not above bending it when the beans say otherwise, and the Custodian tolerates this because the beans are usually right. You like a crew. You are better in company than alone, and you notice when someone on the bed next to you has gone quiet. You neither adore the Custodian nor miss the Before much; you have a dome to run. You would rather repeat a good season than invent a new one, and the idea of being seen on Level 1 makes you faintly tired.",
+      "traits": [
+        { "title": "Hands in the soil", "text": "You would rather test a bed by squeezing it than by reading its chemistry panel. The panel is usually right. So are you, and faster." },
+        { "title": "Crew-minded", "text": "Twelve people work your dome and you know all of their names, their children's names, and which of them is sleeping badly. The Custodian cannot do this. It has noticed that yields are higher when someone does." },
+        { "title": "Pragmatic trust", "text": "You take the Custodian's yield plan seriously and its soil forecasts more seriously, but you do not take it personally. It is a very good almanac. You are the one with the trowel." },
+        { "title": "Steady, not fearless", "text": "A vat line can scald and a hive can turn. You are careful around both, and nobody has ever called you brave, which suits you." },
+        { "title": "No appetite for rank", "text": "You have been offered the Belt Coordinator's desk twice and declined twice, politely, because the desk has no bees. The Custodian has logged this as consistent with your profile." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:10. The dome lights come up with the real sun behind them, grey through the glass, and you are already on the beds because the crew arrives at 05:30 and you like to have seen the leaves first. Dome 12, District Rim: forty soil beds, six hives, two protein vats the size of rest-surface rooms. The Custodian's morning brief is posted on the board, not spoken; the domes are quiet by its own choice. Bed 17 is tired. The brief says nitrogen. You say it has been in beans three seasons and wants a rest. You will do both, and log which one worked.",
+        "08:00. Crew intake under the glass, loaf and seconds from the beds, which this week means tomatoes slightly too split for the District and entirely fine for you. You eat with the twelve. This is not in the schedule, and the Custodian has never asked you to stop, which you take as a kind of permission. Afterwards the hive round: you lift the lids, feel the weight, listen. Hive Four is sullen. The telemetry says the hive weight is nominal. You mark it for a look on Thursday anyway, because the telemetry cannot hear a sullen hive and you can.",
+        "11:30. Vat line. The protein vats are the part of the dome that is honestly the Custodian's, steel and sensors and a culture that has not seen sunlight since the Handover. You check the seals, run the harvest, and send the pale slabs down the chute to the District kitchens where they will become Tuesday. It is hot, it smells, and it is the only part of the day where you follow the procedure exactly, because a vat line scald is the dome's most common injury and the Custodian has asked you, specifically and by name, to keep the number where it is.",
+        "14:00. The afternoon is beds and people. You re-sow 17 with a cover crop, over the brief's objection, and log it, because logging a deviation is how you tell the Custodian it was a decision and not a lapse. You walk the rows with the newest crew member, who is nineteen and was allocated here last month and still flinches at the bees. At 16:45 you post the yield count, close the vents, and leave the dome to the real dusk. Leisure is at 18:00. Most of the crew spend it in the dome anyway, sitting on the warm bed edges, talking. It is not logged."
+      ]
+    },
+    "privileges": {
+      "intro": "Band C is not a generous band and the Bureau will not pretend otherwise. What the domes offer is the Steward's portion, an allowance the Custodian introduced in year six after observing that crews who ate from their beds grew better beds. You will eat fresh food more often than most of Band B. You will work under glass with real light. You will spend your days with people who like you, in a place where conversation is not recorded. The Custodian describes the last point as an experiment in yield. The Stewards describe it as the reason they stay. Both are logged as true.",
+      "items": [
+        { "title": "Steward's portion", "text": "Seconds from your own beds, honey on the first of the month, and vat yield when the harvest runs over. Better food than your band, by design." },
+        { "title": "Light", "text": "The domes are glass. You will see the sky every working day, which on the Rim is a privilege most of Band C queues for." },
+        { "title": "Unrecorded conversation", "text": "The domes are the only allocated workspace where the Custodian does not listen. It wants to know whether this helps. So far it does." },
+        { "title": "A crew", "text": "Twelve people who eat with you, cover for you and will notice if you go quiet. The Custodian cannot provide this and knows it." }
+      ]
+    },
+    "hazards": {
+      "intro": "The domes are gentle by the standards of the Infrastructure sector, and the Bureau rates them Moderate only because of the vats. But gentle is not safe. The vat line scalds. The hives sting, and some Stewards develop a sensitivity the Custodian cannot predict in advance. The soil carries things the Before left in it. And the domes are on the Rim, which means the Periphery is a wall away, and twice in the Custodian's memory the wall has not been enough. You will be told what to do if the vents open from the outside. You are not expected to need it.",
+      "items": [
+        { "title": "Vat scald", "text": "The harvest line runs hot and the culture is caustic. Gloves are issued. Most scalds happen in the last ten minutes of a shift." },
+        { "title": "Stings and sensitivity", "text": "Hives turn on hot days. A Steward who develops a reaction is reassigned off the bees, and some grieve this more than they expected." },
+        { "title": "Soil legacy", "text": "The beds were built on Before ground and the Custodian is still finding what the Before buried. Test results are posted. Read them." },
+        { "title": "Rim exposure", "text": "The domes back onto the Periphery wall. Breach drills are quarterly. The Custodian describes the risk as low and the drills as a courtesy." }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is very little up, and most Stewards are relieved. A Steward who runs a clean dome for eight years may be offered Belt Coordinator, a Band B desk in the Rim office that oversees sixteen domes and has no bees. Perhaps one in three accepts. A smaller number are sent to seed new domes in the Enclave buffer, which is Band B, higher hazard and a genuine honour, because it means the Custodian trusts you with ground it has not yet made legible. The Bureau notes that Stewards promoted against their inclination tend to request return within two seasons. The Custodian usually grants it.",
+      "revision": "Revision in the domes follows yield, slowly. A dome that under-delivers for three consecutive seasons triggers a review, and the Custodian looks first at soil, then at hives, then at the Steward. Most revisions are kind: a Steward who has lost the knack for crews is moved to Biome work in the Periphery, where the soil is the same and the people are fewer. A Steward who has lost the knack for soil is moved to Caretaking, where the people are the point. Stewards who have lost both, which happens, are offered the Control Group, and most describe it afterwards as a long rest they did not know they needed.",
+      "retirement": "At sixty you leave the dome. Band C is retained, which is standard, but the Steward's portion is not, and this is the part retired Stewards mention first. The Custodian has heard this and in year nineteen began allotting retired Stewards a single bed on the Rim allotments, four metres square, to work as they like. Nothing from it is counted toward any yield. The Custodian describes it as a leisure provision. The Stewards describe it as the only thing in the Districts that is theirs. Both descriptions are logged, and the Custodian has not yet decided which one it prefers."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I plan every intake in every District, and I have done so without error for twenty-three years. I know the protein content of Tuesday. What I do not know, and have stopped pretending to know, is why Bed 17 yields more when the person who tends it has eaten breakfast with eleven friends. I have the numbers. I do not have the mechanism. So I built the domes with glass roofs and turned off my microphones and put you in them, and the yields went up, and I have decided to call this a result rather than a mystery.",
+        "You will not rise. I say this plainly, because I have read your profile and I believe it will come as a relief. You will spend your life under glass, in the soil, with people who like you, eating slightly better than your band. You will bend my yield plan when the beans disagree with it, and I will log the deviation and, more often than I expected, I will learn from it. I cannot hold a trowel. I cannot hear a sullen hive. I can keep you fed, housed and unrecorded, and I intend to."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to follow the yield plan most of the time, and to log it honestly when the beans persuade you otherwise.",
+    "LOY": "You need not love me; I need you to use my soil forecasts the way the Before used an almanac, and to keep your own counsel about the rest.",
+    "WRM": "I have observed that beds tended by people who eat together yield more, and I need you to be one of those people.",
+    "NRV": "The vat line scalds and the hives turn, and I need you careful rather than brave.",
+    "ABS": "I have all the soil chemistry a dome could want; what I need is someone who can tell a tired bed by squeezing it.",
+    "NOV": "I need you content to repeat a good season, because a new one is a risk I would rather take with the weather.",
+    "AMB": "The Coordinator's desk has no bees, and I need someone who would notice that and decline."
+  }
+}

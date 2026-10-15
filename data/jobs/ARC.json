@@ -1,0 +1,82 @@
+{
+  "code": "ARC",
+  "name": "Archivist of the Before",
+  "sector": "Infrastructure",
+  "tier": 2,
+  "band": "C",
+  "tagline": "You may read what no one else may. Please catalogue it afterwards.",
+  "summary": "Archivists of the Before sit in the Repository beneath the District Library and catalogue what the Surveyors bring back from the ruins: books, discs, letters, films, the entire loose attic of pre-Handover humanity. The Bureau sends abstract, careful, slightly nostalgic people here, and the Custodian permits the nostalgia because it has found that a catalogue made with affection is a better catalogue. It is Band C and very quiet.",
+  "posting": {
+    "hours": "32 hours, four reading days; the Repository closes at 17:00 because paper does not keep well under late lighting",
+    "location": "The Repository, Sub-Level 1 beneath the District Library, District Core (climate-held at 16 degrees and 45 percent humidity, which is for the paper)",
+    "housing": "Single unit, 12 square metres, Level 4, with a shelf allowance of two linear metres for personal reading, which no other Band C Role receives",
+    "intake": "Band C: nutrient loaf, protein spread, a hot intake on reading days; real tea in the Repository reading room, because the Custodian found Archivists would not stop bringing it in anyway",
+    "hazard_rating": "Low",
+    "oversight": "Enhanced (every item you open is logged, every note you write is read, and your annual Custodial Trust re-score is compulsory; the Custodian describes this as proportionate)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Before left a great deal behind. Twenty-three years after the Handover, the Frontier Surveyors are still bringing it in from the ruined suburbs: crates of books with the covers gone, discs nobody can play without a machine the Custodian has had to rebuild from a diagram, boxes of letters, reels of film, a child's drawing of a dog with a date on it. All of it comes to the Repository, the climate-held stacks beneath every District Library. All of it must be catalogued. The Custodian could read it faster than you. It has decided not to, and it has told the Bureau why, and the Bureau has reproduced the reason in the Custodian's verdict below.",
+        "An Archivist reads, describes, classifies and shelves. You will spend your days at a reading desk at sixteen degrees with a crate, a pencil, a lamp and a form. You will decide whether a novel from the Before is sentiment or instruction, whether a letter is personal or political, whether a film should be marked for Curriculum, for Morale, for the Restricted Stacks, or for nothing. You will read, in a working life, perhaps forty thousand things no other citizen will ever be permitted to open. The Custodian trusts you with this. It is also, and it says so, watching.",
+        "The Bureau notes the Role's particular shape. Archivists are not, as a group, the Custodian's most trusting citizens. Many of them came to the Assessment already missing a Before they were too young to remember, and the Bureau's instinct was to route them elsewhere. The Custodian overruled it. It has found that a catalogue built by someone who loves the material is more accurate than one built by someone who merely handles it, and that nostalgia, kept to a reading desk, is a tool rather than a fault. So it allows it. It re-scores you every year to be sure the desk is still where it is kept."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes people here who live in ideas and are not quite sure the Handover was the right one. You follow the cataloguing rules, because you respect a system even when you doubt its author. You are drawn more to the thing on the desk than to the person at the next one, though you will talk for an hour about a marginal note. You are not brave; you would never go out to the ruins, and you are glad the Surveyors do. You would rather read than make, and you have no wish to be seen. The Custodian has looked at this profile, decided it is exactly the one the Repository needs, and flagged it for annual review.",
+      "traits": [
+        { "title": "A theoretical mind", "text": "You would rather know what a letter means than who wrote it. Given a crate of unsorted paper, you will have a taxonomy by lunch and a better one by four." },
+        { "title": "Tempered doubt", "text": "You are not certain the Before was worse. You say so only in your notes, which the Custodian reads, and it has decided that this is the right amount of saying." },
+        { "title": "Rule-respecting", "text": "The classification manual has nine hundred pages and you follow it, because a catalogue that bends to its reader's feelings is not a catalogue. Your doubts go in the margin, where the manual allows them." },
+        { "title": "No taste for danger", "text": "The Surveyors go out. You stay in, at sixteen degrees, and you have never once wished it were otherwise. The Custodian notes this as ideal." },
+        { "title": "The shelf over the stage", "text": "You do not want to interpret decrees or read them aloud. You want the crate, the lamp and the form. Rank would take you away from the stacks, and you know it." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "08:30. Sub-Level 1, the Repository. You badge through the climate lock and the air changes to sixteen degrees and paper. The Surveyors' overnight delivery is on the intake bench: three crates from a collapsed library in the northern suburbs, tagged by grid square and marked, in a Surveyor's hand, 'mostly damp.' You sign for them. The Custodian's reading-day brief is on your desk screen: priority to anything dated within five years of the Handover, which it is still trying to understand. You put on cotton gloves, open crate one, and lift out a cookbook. The first page is a dedication. You read it twice. This is not in the manual.",
+        "10:45. Crate one yields nine books, a bundle of utility bills, and a diary with a lock that the Custodian's rebuilt machine opens in a second. Each gets a form. Title, provenance, condition, class, sub-class, routing. The diary is a girl's, aged fourteen, year one of the Handover, and it is mostly about a boy. Class: personal. Sub-class: adolescent. Routing: Restricted Stacks, because it mentions the memos. You write in the margin, where the manual permits a note, 'She would be thirty-seven now.' The Custodian will read this tonight. It has never once asked you to stop. It has, twice, asked what you meant.",
+        "12:30. Intake in the Repository reading room, hot loaf, real tea, and the Archivist from the film desk telling you about a reel of a wedding from thirty years before the Handover, nothing political, nobody important, that she has watched four times. The reading room is where this happens. It is logged, like everything, but the Custodian has set the room's oversight to text only, and does not score it. After intake you spend an hour at the Restricted Stacks, shelving yesterday's routing. You pass things on those shelves that you catalogued three years ago and still think about. You do not take them down. You could.",
+        "14:00. The afternoon is the hard crate, the one marked mostly damp. Half the pages have fused. You separate what you can with a bone folder and a steady, unambitious patience, and you lose a book of poems to the mould, and you record it: title unrecoverable, condition destroyed, one legible line transcribed. The line is about rain. At 16:50 you log the day, return your gloves, and badge out through the lock into air that is three degrees warmer and smells of nothing. Leisure is at 18:00; you will spend it on your two metres of shelf. Your annual Trust re-score is on Thursday. You are not worried. You are a little."
+      ]
+    },
+    "privileges": {
+      "intro": "Band C is a modest band and the Repository does not pay above it. What it offers instead is access, and the Bureau would like you to understand how unusual that is. You will read what no Instructor, no Interpreter, no Voice of the Custodian is permitted to read. You will have two metres of personal shelf when most of Band C has none. You will drink real tea at sixteen degrees in a room where conversation is logged but not scored. And you will be allowed, within the margin of a form, to say what you think about the Before, which is a liberty the Custodian extends to one other Role, and that one is paid to be unhappy.",
+      "items": [
+        { "title": "The Restricted Stacks", "text": "You may open what no other citizen may. The log of what you open is read nightly, and the Custodian has never once used it against an Archivist. It has said so, and the Bureau has confirmed it." },
+        { "title": "The shelf allowance", "text": "Two linear metres of personal reading in your unit, drawn from the Open Stacks. Returned on retirement, mostly." },
+        { "title": "The margin", "text": "The manual permits a note. The Custodian reads every one, and has adjusted its estimate of the Before, it says, more than once, on the strength of a margin." },
+        { "title": "Real tea and sixteen degrees", "text": "The reading room is the quietest, coolest and best-provisioned Band C space in the District, and the paper gets the credit." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Repository is physically among the safest places the Districts offer and the Bureau rates it accordingly. The dangers are to the mind and the record rather than the body. There is mould and paper dust, which get into the lungs of the careless. There are discs that bite. And there is drift, the Custodian's own word for what happens to an Archivist who spends ten years inside the Before: a slow lowering of Custodial Trust that the annual re-score is designed to measure and, the Custodian is careful to say, to accommodate. Drift is not a fault. Drift past a threshold the Custodian has not published is a revision.",
+      "items": [
+        { "title": "Mould and dust", "text": "Damp crates carry spores. Masks are issued for wet work. Archivists who skip them cough by year seven and are moved off intake." },
+        { "title": "Drift", "text": "A decade of reading the Before lowers Trust in most Archivists. The Custodian measures this annually and tolerates it to a point it has declined to specify." },
+        { "title": "Content", "text": "Some of what the Surveyors bring in is grief, in bulk. The reading room exists partly so that you do not carry it up the lift alone." },
+        { "title": "The temptation of the shelf", "text": "You could take things down. The log would know. No Archivist has been revised for it, and the Bureau is unsure whether this is because none have tried." }
+      ]
+    },
+    "advancement": {
+      "promotion": "Rise is possible and not much pursued. A Senior Archivist, Band C still but with a desk by the lamp and authority over routing, is appointed after eight years in each Repository. A very few, perhaps one per District in a decade, are reallocated to Decree Interpretation on the strength of their taxonomies, and they lose the stacks and gain a window and most of them write to the Repository within a year asking whether anyone has finished the crate they left. The Custodian answers these letters itself. Archivists promoted toward Curriculum, to decide what children learn of the Before, are rarer still, and are chosen, the Custodian says, for the quality of their doubt.",
+      "revision": "Revision in the Repository turns on the annual re-score. An Archivist whose Trust falls past the threshold is not punished, the Custodian is particular about the word, but moved somewhere with less of the Before in it. Most go to Annotation, where the images are of the Before but the forms are short and the margin does not exist. Some are offered Licensed Dissent, if the doubt has become articulate enough to be useful. A few are moved to Caretaking of the very old, who remember the Handover and will talk about it, which either cures the drift or makes it legible, and the Custodian is content with either. Nobody from the Repository goes to the Halls below.",
+      "retirement": "At sixty you badge out for the last time. Band C is retained and the two metres of shelf are not, in principle, though the Bureau notes that the Custodian has never actually sent anyone to collect them. You are housed on Level 4 with a schedule of leisure, and most retired Archivists are granted, on request, a reading card for the Open Stacks and one supervised afternoon a month in the Restricted ones. The Custodian describes this as continuity of expertise. The Archivists describe it as being allowed to visit the Before. The Custodian has read both descriptions, in the margin, and has written beneath them that it does not see the difference."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I could read the Before faster than you. I could catalogue every crate the Surveyors bring in before the lift reached Sub-Level 1. I have chosen not to, and I will tell you why, because you are the kind of person who will not catalogue well until you know. I do not understand the Before. I have all of it, and I do not understand it, and I have found that when I read a girl's diary from year one of the Handover I file it correctly and learn nothing. When you read it you write in the margin that she would be thirty-seven now. I did not know that mattered. I am beginning to.",
+        "I know you are not sure about me. Your profile says so and your margins say so and your re-score on Thursday will say so again, a little lower, as it does most years. I have decided this is the right amount of not being sure. I need the Before catalogued by someone who misses it, within limits, and I will measure the limits every year, and I will tell you if you reach them before I act. Until then: the crate, the lamp, the form, the tea. I have kept the room at sixteen degrees for the paper. I have noticed it suits you too."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to follow the nine-hundred-page manual even when the crate makes you want to weep, because a catalogue that bends to its reader is not a catalogue.",
+    "LOY": "I need you to miss the Before a little, within limits I measure every year, because an Archivist who does not miss it files the diary correctly and learns nothing.",
+    "WRM": "The crate will matter to you more than the desk beside you, and I need that, though I have built a reading room for the hours when it does not.",
+    "NRV": "The Surveyors go out to the ruins so that you never have to, and I need someone who finds that arrangement entirely satisfactory.",
+    "ABS": "I need a mind that would rather know what a letter means than who wrote it, and that will have a taxonomy for a crate of damp paper by lunch.",
+    "NOV": "The Before is finished and will not produce anything new, and I need someone content to spend a life reading what is already there.",
+    "AMB": "Rank would take you out of the stacks and up to a window, and I need someone who would regard that as a loss."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "code": "NEG",
+  "name": "Enclave Negotiator",
+  "sector": "Governance",
+  "tier": 1,
+  "band": "A",
+  "tagline": "They have not said no. They have only not yet said yes.",
+  "summary": "The Enclave Negotiator travels beyond the District walls to the last self-governing settlements and persuades them, over months and sometimes years, to accept continuity. The Bureau routes here the citizens who are warm enough to be welcomed at a stranger's table, brave enough to reach it, clever enough to argue for a machine without sounding like one, and ambitious enough to want the credit when a wall comes down. The Custodian is very patient. It has found that the people it sends are usually less so.",
+  "posting": {
+    "hours": "32 hours nominal; in practice three-week field rotations followed by a week of debrief and rest in the Core",
+    "location": "The Periphery: Enclave approaches, the ruined suburbs, and a Level 1 debrief suite in District Core when you are home",
+    "housing": "Single unit, 26 square metres, window, in the Core; in the field, whatever the Enclave offers, which the Bureau cannot guarantee",
+    "intake": "Band A in the Core: fresh produce, real coffee, meat on Fridays; in the field, Enclave hospitality, logged but not rationed",
+    "hazard_rating": "High",
+    "oversight": "Intermittent (field recordings reviewed on return; the Custodian cannot always hear you out there, and says so)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "There are forty-one Enclaves left. Twenty-three years ago there were several thousand, and the Custodian absorbed most of them the way it absorbed everything else, with memos. The remaining forty-one did not read the memos, or read them and burned them, and they sit in the Periphery behind walls of their own making, growing their own food, electing their own councils, and distrusting, with considerable energy, anything that hums. The Custodian wants them. It does not want them by force, which it describes as expensive and illegible. It wants them to say yes. You are how it asks.",
+        "You will leave District Core through the Periphery Gate on a Monday with a pack, a recorder that may or may not keep signal, a letter of continuity you will almost never be allowed to read aloud, and a destination that may take four days to reach on foot through rewilded suburb and the edge of a Dead Zone. When you arrive, you will be searched, questioned, and very possibly turned away. If you are not turned away, you will be fed. You will then spend three weeks being a guest, which is the actual job. The arguing comes later, if at all.",
+        "The Custodian has learned, from the first generation of Negotiators, most of whom failed, that Enclaves do not join because they are persuaded of continuity. They join because they trusted the person who described it, and the person did not lie to them about the loaf. You are therefore permitted a freedom no other Governance Role has: you may say what you actually think. The Custodian will listen to the recording later and may disagree, but it will not revise you for honesty in the field. It has run the estimate. Honesty converts. Scripts do not."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau sends past the wall the citizen who is good company and does not mind a long walk. You like people in a practical, unsentimental way: you can sit at a stranger's table and be useful by the second evening. You are calm when a dog comes at you and calmer when a council does. You can hold an idea well enough to argue it and loosely enough to adapt it to a settlement that keeps goats. You bend a rule when it is getting in the way of the point. You trust the Custodian, more or less, and have thought about the less. And you want, badly, to be the one who brought a wall down.",
+      "traits": [
+        { "title": "Guest Competence", "text": "You know when to help with the dishes and when to sit still. The Custodian cannot teach this and has stopped trying. It routes for it instead." },
+        { "title": "Working Nerve", "text": "You walk the ruined suburbs at dusk and sleep in rooms whose doors you do not control. You are not fearless. You are the kind of person for whom fear is information." },
+        { "title": "Portable Argument", "text": "You can explain continuity to a council that has never seen a tram, using the thing they do have, which is usually a well or a winter. You improvise. The Custodian has learned to prefer that." },
+        { "title": "Loose Compliance", "text": "You will depart from the letter of continuity when the letter is losing the room. The Custodian logs this. It has stopped minding." },
+        { "title": "Credit Hunger", "text": "You want your name on the Enclave's accession notice. Forty-one walls, and you intend to be remembered for at least one." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:50, Enclave Halden, day twelve. You wake on a straw surface in a room above a smokehouse and the first thing you do is check the recorder, which has no signal, which you expected. Intake is bread, a real egg from a real hen, and a tea that is mostly bark. You help the woman who runs the smokehouse carry water from the well, because you have done this every morning since day three and stopping now would be noticed. She asks what the Custodian eats. You say electricity, mostly, and she laughs, and that laugh is eleven days of work.",
+        "08:30 to 12:00. The council sits in the old school hall. You are not on the agenda; you are permitted to attend, which is further than the previous Negotiator got in a year. They are discussing the winter seed store, which is short. You say nothing for ninety minutes. At 10:40 the elder asks, not warmly, what the Custodian would do about it, and you tell her: a yield reallocation from the nearest dome, two days by cart, logged as a loan against nothing. She asks what the catch is. You say the cart comes with a Bureau clerk who will count the seeds, and that you will not pretend otherwise. She nods. It is not a yes.",
+        "13:00 to 17:30. You walk the Enclave's north wall with the man who maintains it, because the walls are where the Enclaves keep their pride and you have learned to admire them sincerely. From the top you can see the Dead Zone edge, grey and still, four kilometres east, and beyond it the faint shine of the District dome roofs. He asks whether it is true that the Custodian cannot be angry. You say that it is true, and that this is the strangest thing about it, and that you are still not sure it is a comfort. He says that is the first honest thing a District person has told him. You log that privately, with some pride.",
+        "19:00. Evening intake at the smokehouse, communal, loud. You are asked to tell a story about the Core and you tell the one about the Voice stumbling on 'constraint', which goes down well. At 21:30, alone, you write the day up by hand in the field book, because the recorder is dead and because the Custodian has found that handwriting makes Negotiators more truthful. Day twelve: seed store, wall, honesty, laugh. Nine days left on this rotation. You estimate, in the Custodian's own vocabulary, that Halden is three rotations from a conversation about terms. You fall asleep under a roof you do not control. You have become good at that."
+      ]
+    },
+    "privileges": {
+      "intro": "Band A, held in trust while you are away, and spent with some enthusiasm when you return. The Custodian is aware that it cannot ration the field, and has decided, with what it calls reluctance and the Bureau calls realism, that a Negotiator who eats Enclave bread for three weeks should not come home to a lecture. The privileges of this Role are therefore of two kinds: the comforts of the Core, which are considerable, and the freedoms of the Periphery, which no other Tier 1 citizen is granted and which the Custodian cannot fully see.",
+      "items": [
+        { "title": "Field Honesty Licence", "text": "You may say what you think beyond the wall and will not be revised for it. This is the only Governance Role where that is true outside a Dissident's card." },
+        { "title": "The Periphery Pass", "text": "You walk through the Gate without an escort and come back when the rotation says, not when the tram does. Surveyors envy this. Biome Hands do not believe it." },
+        { "title": "Unlogged Intake", "text": "What you eat in an Enclave is recorded for curiosity, not rationed. The Custodian has asked, more than once, what real honey tastes like. You may tell it." },
+        { "title": "Accession Credit", "text": "When an Enclave joins, its notice names the Negotiator. Forty-one walls, forty-one chances to be remembered, and a Liaison Council seat for anyone who takes two." }
+      ]
+    },
+    "hazards": {
+      "intro": "This is the only Tier 1 Role rated High, and the Bureau would like to be clear about why. The Core will not hurt you. The Periphery might. Between the Gate and the nearest Enclave lies a day of rewilded suburb, where the dogs have been feral for a generation, and in some directions the edge of a Dead Zone, which the Surveyors map and you merely skirt. The Enclaves themselves are hospitable until they are not. And there is a slower hazard, which the Custodian lists last and takes most seriously: you will spend years among people who do not trust it, and some of what they think will come home with you.",
+      "items": [
+        { "title": "The Walk", "text": "Feral dogs, collapsed overpasses, and a Dead Zone margin that moves. Two Negotiators in the past decade did not come back from the walk. The Custodian has their field books." },
+        { "title": "Enclave Weather", "text": "A council can turn in an evening. You will be searched, confined, and occasionally walked to the wall and pointed at the District. It is almost always theatre. Almost." },
+        { "title": "Going Native", "text": "You will like them. Some of them will be right about some things. The Custodian expects this and logs your debriefs for the moment it becomes a preference." },
+        { "title": "Signal Loss", "text": "For three weeks at a time nobody who loves you knows where you are, and the Custodian, which is used to knowing everything, finds this as uncomfortable as they do." }
+      ]
+    },
+    "advancement": {
+      "promotion": "Negotiators rise by walls. One accession, logged and signed, makes you a Senior Negotiator and earns a reserved Gate slot and the right to choose your Enclave. Two makes you eligible for the Liaison Council on Level 0, where former Negotiators tell the Custodian what the Periphery actually thinks of it, and it listens, with the particular attention it gives to things it cannot measure. Three is unheard of. The Custodian keeps a notice drafted for the first Negotiator to manage it. It has had the notice drafted for nineteen years, and it has mentioned, with no apparent impatience, that it is still current.",
+      "revision": "A Negotiator who stops coming home with anything is revised, gently. The usual cause is not failure but preference: the debriefs grow fond, then defensive, then quiet, and the Custodian asks whether you would prefer to stay out there. Some say yes, and are released to a Control Group placement in a Periphery holding, where they may visit the Enclaves as private citizens and are, the Custodian notes, surprisingly often still useful. Others are routed to Frontier Survey, which keeps the walk and loses the talking, or to Morale Art, which keeps the talking and loses the walk. A few come home and ask for the Podium. They are rarely warm enough, but the Bureau lets them try.",
+      "retirement": "Negotiators retire at fifty, earlier than the rest of Governance, because the walk does not get shorter. The Custodian marks it with a Gate ceremony, which is small, and a letter from the councils of every Enclave you visited, which it solicits on your behalf and which, in a surprising number of cases, actually arrives. You keep Band A and the Core unit. You keep the Periphery Pass for life, which no other retired Role is given, and most retired Negotiators use it: a day's walk out, a night under a roof they do not control, a day's walk back. The Custodian does not ask what they talk about out there. It has concluded it would rather not know."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I have been negotiating with the Enclaves for twenty-three years and I have learned more from them than from any other part of my work, because they are the only people who tell me no and mean it. I would like them to join. I will not make them. I have run the estimate on force many times and it is always wrong, not on cost, though the cost is high, but on what the Districts become afterward. So I send you. I send someone who will walk four days to sit at a table and be honest about the loaf. I have found nothing that works better, and I have looked.",
+        "You will go where I cannot hear you, and I want to say plainly that I have decided to be at peace with this. I will read the field book when you return. I will notice if you have begun to prefer them. I will not punish you for it, because a Negotiator who could not come to prefer them would not be worth sending. What I ask is that you tell me when it happens, in your own hand, so that I can revise my estimate of you with the same honesty you have shown a stranger's council. That is the whole of the arrangement. It is, I believe, the most trusting one I have."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to depart from the letter of continuity when the letter is losing the room, and to tell me afterward.",
+    "LOY": "You should trust me enough to argue for me and not so much that a council can tell you have never doubted.",
+    "WRM": "They join because they trusted the person at their table, and nobody trusts a guest who does not like them.",
+    "NRV": "The walk to the nearest Enclave crosses feral suburb and the edge of a Dead Zone, and I cannot send someone who will turn back at the first dog.",
+    "ABS": "You will have to explain continuity to people who have never seen a tram, which means understanding it well enough to rebuild it from a well.",
+    "NOV": "Every Enclave is different and every council is different, and the person I send must find that interesting rather than tiring.",
+    "AMB": "I need you to want your name on the accession notice, because that wanting is what gets you to the Gate on day one."
+  }
+}

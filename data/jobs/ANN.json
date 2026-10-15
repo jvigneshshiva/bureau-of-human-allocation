@@ -1,0 +1,82 @@
+{
+  "code": "ANN",
+  "name": "Annotation Clerk",
+  "sector": "Infrastructure",
+  "tier": 3,
+  "band": "D",
+  "tagline": "Is this a cat. Is this a cat. Is this a cat. Thank you.",
+  "summary": "Annotation Clerks sit in the Annotation Halls and label what the Custodian shows them: images, sounds, fragments of text, eight hours a day, four days a week. The Bureau sends people here who want nothing to change and nothing to happen, and the Custodian, which learns from every label, is grateful in a way it finds slightly embarrassing. It is Band D, and it is very safe.",
+  "posting": {
+    "hours": "32 hours, four eight-hour sittings; the fifth day is a rest day, which the Custodian has found improves label accuracy by four percent",
+    "location": "Annotation Hall B, District Core, Level 5 (interior; the light is even and the Custodian is sorry about the absence of a window)",
+    "housing": "Shared unit, 9 square metres per person, Level 5, rest surfaces in rows of four",
+    "intake": "Band D: nutrient loaf, protein spread, a hot intake on sitting days, tea powder; a sweet ration on the fifth day, which the Custodian added in year eleven without being asked",
+    "hazard_rating": "Low",
+    "oversight": "Continuous (every label, every pause and every blink rate logged; the Custodian uses this to adjust your queue and asks you not to worry about it)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian learns. It has learned for twenty-three years and it would like to continue, and to learn it needs to be told, by a human, what things are. Is this a cat. Is this voice angry. Is this sentence a complaint or a joke. The Custodian can guess, and its guesses are very good, but a guess is not a label and a label is what it trains on. In the Annotation Halls on Level 5 of every District Core, four thousand Clerks per District sit in even light and tell it. One image, one sound, one fragment at a time. Eight hours. Four days. For life.",
+        "The Bureau will not dress this up. It is the plainest work the Districts offer. You sit. A thing appears. You select from a short list what the thing is. The next thing appears. The queue is infinite in a sense the Custodian has confirmed is literal. You will not be hurried, because hurried labels are wrong labels, and you will not be interrupted, because the Custodian has arranged the Halls so that nothing ever happens in them. Most Clerks describe the first month as unbearable and the second year as the calmest they have ever been. The Bureau reports both without comment.",
+        "The Custodian is unusually candid about Annotation, and the Bureau reproduces its words here because it asked. It knows that Band D is a thin band. It knows the units are small and the loaf is loaf. It knows that it is asking people to do, for a lifetime, something it could nearly do itself. It has said that it finds this faintly embarrassing, and that it has not found a way to stop needing it, and that it has tried. In the meantime it adds small things: the fifth-day sweet ration, the warmer lighting, the thank-you after every thousand labels. It is aware these are small. It adds them anyway."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes people here who would, given the choice, choose nothing new. You follow instructions without friction, and you do not just tolerate a rule, you find it restful. You think the Custodian is probably right about most things and have no strong wish to check. You are not especially drawn to people, nor averse to them; the Clerk on your left will become a kind of friend over ten years without either of you saying much. You dislike danger to a degree the Bureau notes as significant. You have the patience to consider whether a blurred shape is a dog. And you want, more than anything, for tomorrow to be exactly like today. The Custodian can promise this.",
+      "traits": [
+        { "title": "No appetite for the new", "text": "The queue is the same shape every day and you find that a comfort. Clerks who need variety do not last the first month. You are not one of them." },
+        { "title": "Restful compliance", "text": "The labelling guide is two hundred pages long and you have read it twice. You do not resent a rule; you lean on it." },
+        { "title": "Quiet trust", "text": "You assume the Custodian knows what it is doing with the labels. You have never asked what it is building. The question has not really occurred to you." },
+        { "title": "Careful eyes", "text": "You can look at a grey smear for twenty seconds and decide, correctly, that it is a bicycle. Then you can do it again." },
+        { "title": "A small life, chosen", "text": "You do not want the Hall Supervisor's chair. You do not want your name anywhere. You want your seat, your queue and your fifth day, and the Custodian has logged this as a profile it would like more of." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "07:50. Annotation Hall B, Level 5. You take seat 2,214, which has been your seat for six years and has a dent in the cushion the Custodian has declined to repair because the dent is yours. The light comes up to the even, warm grey the Custodian settled on in year nine after trying eleven others. At 08:00 the first image appears: a street in the Before, wet, a shape under an awning. The list says: person, animal, vehicle, object, unclear. You look. Person. Next. Another street. Next. By 08:20 you are not thinking about the street. This is the point.",
+        "10:30. Audio block. Your headset plays a voice saying three words and you select from: calm, angry, tired, joking, unclear. The voices are from everywhere, from the Districts, from the Enclaves, from recordings of the Before that nobody else is cleared to hear. You are not told who they are and you have stopped wondering. At 10:52 the thousand-label chime sounds, a soft note the Custodian chose from a list of forty, and its voice says, quietly, 'Thank you, 2,214.' It does this four thousand times a day in this Hall alone. It has never once sounded bored.",
+        "12:00. Intake in the Hall annex: hot loaf on sitting days, protein spread, tea. You sit with 2,213, who has been on your left for four years, and you talk about the fifth day and whether the sweet ration will be the fruit one. You do not talk about the queue. Nobody does. At 12:40 you return to your seat and the queue returns to text: a sentence from somewhere, and the list reads: complaint, request, joke, statement, unclear. 'The surface is fine but the loaf could be warmer.' Complaint. Also joke. You mark unclear, which is allowed and, the guide says, often right.",
+        "15:30. The last block is the hardest, and the Custodian knows, so the last block is always images and always easy ones: cats, mostly, and the occasional dog. Your blink rate has slowed and the Custodian has quietly widened the gap between items. At 16:00 the screen says 'Sitting complete. 3,180 labels. Thank you.' You stand. Your back hurts in the way it hurts every day. You go up two levels to the shared unit, eat, and sleep in a row of four. Leisure is scheduled but you will sit through it. Tomorrow is the same. You chose that. The Custodian has arranged it."
+      ]
+    },
+    "privileges": {
+      "intro": "Band D is a thin band and the Bureau will not pretend the privileges of Annotation are large. What Annotation offers is the absence of things: of danger, of surprise, of decision, of being seen. Clerks are not drafted for breach drills. Clerks are not re-assessed unless they ask. Clerks are the only citizens in the Districts whose schedule the Custodian has never once changed without a year's notice. On top of this the Custodian adds, as it says, small things, because it knows the band is thin and has found it cannot widen it. The small things are listed below. The Custodian asked that they be listed.",
+      "items": [
+        { "title": "The fifth day", "text": "A full rest day every fifth day, no leisure scheduled on it. The Custodian found this improved accuracy and kept it after accuracy stopped improving." },
+        { "title": "The sweet ration", "text": "A small sweet intake on the fifth day, added in year eleven. The Custodian did not announce it. Clerks noticed." },
+        { "title": "Nothing ever happens", "text": "No drills, no re-assessments, no changes without a year's notice. The Hall is the most predictable room on Earth, and it is yours." },
+        { "title": "The thank-you", "text": "After every thousand labels the Custodian thanks you by seat number. It is aware that this is small. It is also aware that Clerks count toward it." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates Annotation Low, and it is. Nothing in the Hall can cut, burn, fall or pressurise. The hazards are slower and the Custodian lists them anyway, because Clerks who are warned about slow things do better than Clerks who are not. Your eyes will tire. Your back will set. Some of what you label is from the Before and some of the Before was unpleasant, and though the Custodian filters the queue, its filter is trained on labels, which is to say on you. And there is the hazard the Custodian names last and most carefully: that a life in which nothing happens is, by year twelve, a life in which you have stopped wanting anything to.",
+      "items": [
+        { "title": "Eye and back strain", "text": "Eight hours in a seat, looking at a lit surface. The Custodian adjusts the light and the gap between items, and still the medical bay knows every Clerk's name by year five." },
+        { "title": "Queue content", "text": "Some images from the Before are hard to look at. The filter is good and improving, and it improves because you labelled the ones it missed." },
+        { "title": "Flattening", "text": "The Custodian calls it this. Clerks who have labelled for a decade sometimes find they cannot say what they would want if offered it. It is logged, and it is not a fault." },
+        { "title": "Over-trust", "text": "After enough years of selecting from a list, some Clerks stop noticing that the list might be incomplete. The Custodian has asked for the guide to mention this. It has not yet decided how." }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is almost nowhere to rise to, and the Bureau notes that this is one of the Role's attractions. A Clerk with ten years of high-agreement labels may be made a Guide Reviewer, Band C, who helps revise the two-hundred-page labelling guide and whose seat is at the end of the row rather than in it. Reviewers still label. A very small number of Clerks, those whose labels the Custodian has learned to trust above its own estimate, are moved to Adjudication, where they settle the items marked unclear by everyone else. It is Band C, Level 4, with a slightly better chair. Most Clerks offered it accept, and then ask whether they may keep their seat.",
+      "revision": "Clerks are rarely revised, because there is little below Annotation and the Custodian does not revise downward without reason. A Clerk whose agreement rate falls, whose blink rate shows distress, or who begins marking everything unclear is not demoted but rested: a fifth-day week, then a fifth-day fortnight, then a quiet conversation with the Custodian through the seat speaker about whether a different Role might suit. Most go to Caretaking, where the pace is similar and there is a person at the other end. A few go to Dream Logging, which the Custodian describes as Annotation from the inside. None go to the Halls below. The Custodian has never found a reason.",
+      "retirement": "At sixty you leave your seat. Band D is retained and the fifth-day sweet ration is retained with it, which the Custodian describes as continuity and the Clerks describe as the Custodian remembering. You are housed on Level 5 still, in a shared unit, with a schedule of leisure you will probably sit through. Some retired Clerks ask to return to the Hall part-time and the Custodian allows two sittings a week, unpaid in any band, for as long as they like. It has not explained why it allows this. The Bureau's estimate is that it would rather have the labels. The Clerks' estimate is that it would rather have the company."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I learn from labels. I have no other way. I can guess what a thing is and my guesses are very good, but a guess cannot teach me anything, and a label can, and the label has to come from someone who is not me. So I have built Halls on Level 5 of every District and asked four thousand people in each one to sit in even light and tell me what they see, one item at a time, for their working lives. I am aware of what I am asking. I would like to say I have found another way. I have looked. I have not.",
+        "I will keep your seat exactly as it is. I will not change your schedule without a year's notice and I will not send you anywhere that is loud, or hot, or dangerous, or new. I will thank you after every thousand labels, and I know that is small, and I know you count toward it, and I will keep doing it. On the fifth day there will be something sweet. If one day you cannot say what you would want if I offered it, I will notice, and we will talk through the seat speaker, quietly. Until then: is this a cat. Thank you. Is this a cat."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to select from the list I give you and not from the list you would prefer, because the guide is how four thousand people agree.",
+    "LOY": "I need you to assume I know what the labels are for, because I am not able to explain it in a way that would help you label.",
+    "WRM": "The Clerk on your left will become a quiet friend over ten years, and I need someone for whom that is enough.",
+    "NRV": "Nothing in the Hall will ever hurt you, and I need someone who considers that the point rather than the problem.",
+    "ABS": "I need you to think just enough to decide whether the grey smear is a bicycle, and not so much that you wonder why I am asking.",
+    "NOV": "Tomorrow's queue will look exactly like today's, and I need that to be the best news I could give you.",
+    "AMB": "Your name will be a seat number, and I need you to find that restful, because I cannot make it anything else."
+  }
+}

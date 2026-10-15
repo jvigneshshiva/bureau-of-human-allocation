@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sit the assessment - Bureau of Human Allocation</title>
+<meta name="description" content="Forty-two statements. The Bureau assigns your Role.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<header class="wrap site-head">
+  <a class="brand" href="./index.html"><b>Bureau of Human Allocation</b><span>A service of the Custodian. Continuity Year 23.</span></a>
+  <nav class="site-nav" aria-label="Site"><a href="./index.html">Home</a><a href="./jobs/index.html">Role directory</a><a href="./assess.html" aria-current="page">Sit the assessment</a></nav>
+</header>
+<main class="wrap">
+
+<section class="assess-intro">
+  <h1>The Allocation Assessment</h1>
+  <p class="lede">Forty-two statements in six sections. Mark how much each one is true of you. <b>Answer as you are, not as you would like to be read.</b> The Custodian has seen every strategy and finds most of them endearing.</p>
+</section>
+<div class="progress" role="status" aria-live="polite">
+  <div class="bar"><div class="fill" id="progress-fill"></div></div>
+  <div class="label"><span id="progress-label">Section 1 of 6</span><span id="progress-count">0 of 42 recorded</span></div>
+</div>
+<form id="assess-form" onsubmit="return false">
+  <div class="assess-nav">
+    <button type="button" class="btn ghost" id="prev" disabled>Back</button>
+    <span class="hint" id="hint" aria-live="polite"></span>
+    <button type="button" class="btn" id="next">Continue</button>
+  </div>
+</form>
+
+</main>
+<footer class="wrap site-foot">
+  <p>This is a work of satirical fiction. There is no Custodian, no Bureau, and no Role is binding. Any resemblance to your actual job is a coincidence the Custodian would have found interesting.</p>
+</footer>
+<script src="./js/questions.js"></script><script src="./js/allocate.js"></script><script src="./js/assess.js"></script>
+</body>
+</html>

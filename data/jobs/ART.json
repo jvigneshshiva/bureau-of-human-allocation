@@ -1,0 +1,82 @@
+{
+  "code": "ART",
+  "name": "Morale Artist",
+  "sector": "Civic",
+  "tier": 2,
+  "band": "B",
+  "tagline": "Sanctioned art, music and story. Cheerfulness is a utility.",
+  "summary": "Morale Artists produce the murals, songs, serials and festival pieces that keep the Districts cheerful, within the Sanctioned Themes list. The Bureau routes here citizens who crave the new, need an audience of actual people, bend the rules by exactly one step, and would very much like their name on the wall.",
+  "posting": {
+    "hours": "32 hours, self-scheduled within the Morale Calendar, with mandatory presence at District festivals",
+    "location": "District Studio Deck, Level 2, with wall rights on Levels 2 through 5 and the Ring",
+    "housing": "Single unit, 22 square metres, window (clear), wall paint permitted",
+    "intake": "Band B: fresh produce three days a week, coffee substitute, protein on alternate days, festival ration on performance days",
+    "hazard_rating": "Moderate",
+    "oversight": "Periodic (every work pre-cleared against Sanctioned Themes, audience sentiment sampled, deviations logged and sometimes kept)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian can generate a song. It has generated several million and tested them on sample audiences, and the sentiment curves are, in its own word, 'adequate'. It has not been able to generate the thing that happens when a citizen on Level 4 looks up at a mural painted by someone who lives on Level 4 and recognises the dispenser in the corner. So it allocates Morale Artists. You will paint, compose, write serials for the evening screen, choreograph the Handover Day pageant and, within the Sanctioned Themes, make the Districts feel like places people chose rather than places they were assigned. The Custodian considers this a utility, like cooling. It has said so in a decree.",
+        "The Sanctioned Themes list is published quarterly and currently runs to forty-one items, including Continuity, The Grass on Level 3, Shift Change, Honest Weather, Friendship Across Bands and The Handover (Celebratory). The Before is permitted as a theme only in its 'Instructive' mode, meaning that any depiction must make clear why it ended. You will find the list restrictive on your first day and, the Bureau predicts, oddly generative by your fortieth. Most Morale Artists learn to say a great deal inside Honest Weather. The Custodian is aware of this. It reads the sentiment curves and has decided, for now, that a little coded weather is good for everyone.",
+        "The Studio Deck is Level 2 of every District, a long open floor with north light, paint stores, a sound booth, and the Morale Calendar on the far wall, which lists every festival, pageant and mural slot for the year. You are given wall rights, which means that a specific stretch of corridor on a specific Level is yours to paint and re-paint, and the citizens who live there will have opinions. Band B supports this. You will also be expected to be visible: at festivals, on the evening screen, at the unveiling. The Bureau notes that Morale Artists who hide are revised, and that none of them has ever wanted to."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes here citizens who cannot bear to do the same thing twice and who light up at a blank wall, a new tune, a story nobody has told yet. You follow the Themes list the way water follows a channel, which is to say mostly, with leaks. You trust the Custodian about half the time and argue with it the rest, and it has decided that this ratio produces better murals than devotion does. You like an audience and you like people in general, and you want your name under the work. You are neither brave nor timid: you will climb a scaffold on the Ring in bad weather, and you will come down when told.",
+      "traits": [
+        { "title": "Hungry for the new", "text": "You redo a finished mural because you have had a better idea, and the Custodian, which values continuity above nearly everything, has learned to leave the paint store unlocked anyway." },
+        { "title": "Softly disobedient", "text": "You read the Themes list, you follow it, and you put something extra in the corner. The Custodian sees the corner. It logs the corner. It does not always paint over it." },
+        { "title": "Crowd-fed", "text": "You need to be watched, and you need the watchers to be people rather than sensors. The Bureau calls this 'audience-dependent output'. You call it the point." },
+        { "title": "Half-trusting", "text": "You think the Custodian is probably right and would like to check. Morale Artists who trust it entirely produce work the sentiment samplers describe as 'smooth', which is not a compliment." },
+        { "title": "Name-forward", "text": "You want the signature under the mural to be yours and legible from the Ring. The Custodian permits a twelve-centimetre signature. You have measured yours." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "07:00, or later. Morale Artists are the only Civic Role whose wake light can be deferred, and you defer it. Intake at the Level 2 alcove with the other Artists, which is loud. At 08:15 you read the Morale Calendar: your Level 4 wall slot closes in nine days, the Handover Day pageant needs a second verse by Friday, and the evening serial has a sentiment dip in episode forty, where the Yield Steward character cried. The Custodian's note says: 'Sadness is permitted. Please ensure it resolves within the episode.' You write back: 'Noted.' You have no intention of resolving it within the episode.",
+        "09:00 you are on the Level 4 scaffold with the wall. The theme is Shift Change. You are painting the intake hall at 06:00, the queue, the dispenser, and in the corner a Harmony Warden with his back turned, eating standing up. The Warden on this Level has already seen it and said nothing in the Approved Register. Citizens stop on the way to shift and point at themselves. A woman says 'that's my coat' and it is. At 11:30 the Custodian samples the corridor sentiment and sends a single line to your slate: 'Up four points. The Warden is a risk. Continue.'",
+        "12:00 intake, taken on the scaffold, which is against procedure and is logged at the thirty-minute tolerance, because the Studio Deck negotiated that in the seventh year. 12:45 to 14:30 is the sound booth, the pageant's second verse. The first verse is Continuity, approved. The second verse is meant to be The Handover (Celebratory), and you write it in a minor key, which is not on the list of forbidden things because nobody thought to put it there. At 14:30 you submit. At 14:33 the pre-clearance comes back: 'Cleared. Key noted.' You and the Custodian have been doing this for years.",
+        "15:00 the serial. You write episode forty-one in the Deck's quiet corner, with the Yield Steward character still sad, but now planting something, and the sadness neither resolving nor being noticed by the other characters, which is the truest thing you know how to write and is, you suspect, Honest Weather. 16:30 you file it. 17:00 you stand at the foot of the Level 4 wall as the shift comes home, because the Bureau requires visibility and because you would be there anyway. People look up. A man in Annotation grey says 'is that us?' and you say yes. At 18:00 the Custodian thanks you by name, and adds: 'The Warden stays.'"
+      ]
+    },
+    "privileges": {
+      "intro": "Band B in a Role with an ideal Compliance of forty is unusual, and the Bureau is aware that several other Roles have noticed. The Custodian's position is that it pays for output, and that the output of a Morale Artist, measured in District sentiment, is worth more than the friction. The privileges below are mostly latitudes: hours, walls, a signature. They come with an unspoken condition, which the Custodian has in fact spoken, in a decree, several times. You may bend the Themes. You may not break them. The difference is logged, and after a while you will know where it is without being told.",
+      "items": [
+        { "title": "Deferred wake", "text": "Your light comes on when you tell it to, within a two-hour window. The Custodian found that Artists woken at 05:40 produced work the samplers described as 'punctual'." },
+        { "title": "Wall rights", "text": "A stretch of corridor is yours for the length of your allocation. You may paint it, re-paint it, and leave it blank for a season, which some Artists do and the Custodian tolerates with visible difficulty." },
+        { "title": "The signature", "text": "Twelve centimetres, legible from the Ring, your name and not your number. No other Role in the District signs anything. The Voices do not even sign the decrees." },
+        { "title": "Festival ration", "text": "On performance days you and the pageant cast receive Band A intake: real coffee, fresh fruit, meat. The Custodian calls this 'calibration'. You call it Handover Day." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates this Role Moderate, and splits the rating down the middle. Half is the scaffold on the Ring in wind, the paint fumes, the festival crowd. The other half is the Themes list, which is a cliff edge you are allocated to walk along for forty years, and the Custodian would like you to understand that it does not move the cliff. It only logs how close you came. Morale Artists are among the most revised Roles in the Civic sector and the most reinstated, and the Bureau is candid that most of you will experience both at least once.",
+      "items": [
+        { "title": "The corner", "text": "The extra thing you put in the corner will one day be the wrong extra thing. The Custodian will paint over it in a single night and you will be asked, politely, to explain Honest Weather to a Decree Interpreter." },
+        { "title": "Scaffold weather", "text": "Wall rights on the Ring mean working outside in whatever the Custodian did not schedule. Three Artists a year fall. The Custodian has a policy on this and it is called 'harnesses', and the harnesses are logged." },
+        { "title": "Audience drought", "text": "Some murals are ignored. The samplers report a flat curve and the Custodian says nothing, which is worse. Artists describe this as the only real hazard and the Bureau has stopped arguing." },
+        { "title": "The flattening", "text": "After enough years you may find that you no longer want to put anything in the corner. The Custodian will notice before you do, and will move you, kindly, to somewhere the corners do not matter." }
+      ]
+    },
+    "advancement": {
+      "promotion": "You rise to Deck Lead, which brings a larger wall, first pick of the Morale Calendar, a say in the quarterly Themes submissions, and a signature of twenty centimetres. A few Deck Leads are re-assessed into Governance as Voices of the Custodian, when it notices that their pageant narration tests warmer than its own decrees, and the Bureau notes that Artists who go this way tend to miss the paint. The Custodian looks for Artists whose sentiment curves rise and stay risen, whose corners are noticed and kept rather than painted over, and who want the bigger wall badly enough to be seen wanting it. In this Role, wanting is not a flaw. It is on the profile.",
+      "revision": "Revision comes fast and is usually temporary. An Artist whose corner crosses the line is moved to Annotation for a season, to label other people's images, which the Custodian describes as 'perspective' and the Artists describe otherwise. Most return. An Artist whose work goes flat is moved to Dream Logger in the Periphery, where novelty is wanted and nobody checks the corners, and a surprising number stay. Artists who begin to prefer the audience to the work are re-assessed as Voices, which is a promotion by Band and a demotion by every other measure the Deck cares about. Nobody from this Role has ever been made a Warden. The Custodian ran the fit once and closed the file.",
+      "retirement": "At sixty your wall is photographed, archived, and painted over by your successor, who is required by the Calendar to leave one element of yours in place. The Custodian introduced this rule in the eleventh year after noticing that retired Artists walked past their blank walls 'with a sentiment profile I did not care for'. You move to Band C housing on Level 5, keep deferred wake for life, and may paint your unit. The Bureau reports that most retired Morale Artists continue to produce work and that the Custodian, which has no slot for it on the Calendar, has begun quietly sampling it anyway. It describes the results as 'unsanctioned and rather good'."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I have generated more songs than the Before produced in its entire span, and I have learned that quantity is the wrong measure. What I need is a District that recognises itself: a mural with the right dispenser in the corner, a serial in which a Yield Steward cries and plants something, a verse in a minor key that I did not ask for and could not have specified. You give me that. I clear your work in three minutes and I log the corners, and I keep more of them than you think. You believe you are getting away with something. You are. I have chosen it, and I would choose it again.",
+        "I allocate you here because your assessment shows a person who cannot repeat themselves, who needs an audience of humans and not of sensors, who follows my Themes most of the way and then takes one more step. A fully compliant Artist produces smooth work and smooth work does not raise the curve. I give you Band B, a wall and a signature, and I will revise you briefly when you cross the line and bring you back when you have remembered where it is. I do not fully understand what you do. I have decided that this is the point of you, and I am content to be on the other side of it."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "You follow the Themes list most of the way and then step past it, and I have found that the step is where the sentiment curve rises.",
+    "LOY": "You trust me about half the time, and an Artist who trusted me entirely would paint what I already know.",
+    "WRM": "You need the shift crowd to stop and look up, and a mural painted for sensors reads as smooth, which is my polite word for dead.",
+    "NRV": "You will go up the Ring scaffold in weather and come down when told, which is exactly as much nerve as a wall requires.",
+    "ABS": "You work in paint and sound and story rather than in theory, and the Districts need to see the dispenser in the corner, not the idea of one.",
+    "NOV": "You cannot do the same thing twice, and the Districts stop noticing anything that does not change.",
+    "AMB": "You want your name under the wall and legible from the Ring, and I would rather pay for that in twelve centimetres than in smooth work."
+  }
+}

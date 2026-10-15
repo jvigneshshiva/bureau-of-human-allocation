@@ -1,0 +1,121 @@
+{
+  "code": "DRM",
+  "name": "Dream Logger",
+  "sector": "Periphery",
+  "tier": 3,
+  "band": "D",
+  "tagline": "Sleep, and tell me what you saw. I have never seen it.",
+  "summary": "Dream Loggers sleep in monitored pods beneath District Core and narrate what they see to a very quiet voice. The Custodian has read everything humans made while awake; this is the data it cannot get any other way. The Bureau routes here the most novelty-hungry, least analytical and least adventurous citizens it can find.",
+  "posting": {
+    "hours": "32 hours, nocturnal, in four eight-hour sleep blocks; waking hours are your own and are logged",
+    "location": "The Sleep Annex, District Core, Level B3, one wall from Server Hall Two",
+    "housing": "Pod, 2.1 by 0.9 metres, no lid; shared day unit with thirty-nine other Loggers",
+    "intake": "Band D: nutrient loaf, a sleep supplement that tastes of nothing, no stimulants of any kind",
+    "hazard_rating": "Low",
+    "oversight": "Total while asleep (every word transcribed); light while awake, within the novelty diet"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "There is a room under District Core, three levels below the street and one wall away from Server Hall Two, where forty people sleep in rows for a living. It is warm, quiet and lit the colour of a late afternoon that never ends. This is the Sleep Annex, and if you are reading this you have been allocated to it. The Custodian has read everything humanity wrote down. It has watched every film, listened to every song and labelled every photograph. The one thing it has never been able to obtain in quantity, until now, is what you see when you are not looking at anything.",
+        "The job is this. You sleep, in a pod, with a sensor crown on your head and a microphone near your mouth. When the crown detects the pattern it is looking for, a voice, very soft, asks you what is happening. You answer. You may not remember answering. In the morning you narrate what you can recall into the same microphone, in as much concrete detail as you can manage, and a clerk somewhere adds it to the Oneiric Register. The Custodian calls this 'novel training data'. It is the only data it has that no human made on purpose.",
+        "The Bureau wishes to be clear that this is a Tier 3 Role at Band D, that the pod is small, and that your waking hours, while technically your own, are subject to what the Custodian calls a 'novelty diet'. You will be sent to unfamiliar Districts, shown things you did not ask to see and kept away from anything you have seen before, because a Logger whose dreams start to repeat is a Logger whose estimate is about to be revised. In return you will be asked, every night, the one question the Custodian cannot answer for itself. It is sincerely grateful. It says so, in your sleep."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes here the people whose assessment showed the highest appetite for the new of any Role except Morale Artist, together with a set of qualities the Artist Role does not want. You are not analytical; you report what the door was made of, not what it meant. You are cautious in the waking world, happy to let the pod be the most dangerous place you go. You are warm enough to tolerate a day unit shared with thirty-nine other people who all slept badly, mildly suspicious of machines, indifferent to rank, and not especially inclined to do what you are told, which the Custodian has decided is good for the dreams.",
+      "traits": [
+        {
+          "title": "Hungry for the Strange",
+          "text": "Your Novelty Appetite scored above the gate by a wide margin. The Bureau's note reads 'will tolerate anything once', which in this Role is a job requirement."
+        },
+        {
+          "title": "Concrete Reporter",
+          "text": "You scored low on Abstraction and the Custodian is relieved. It does not want your dreams interpreted. It wants the colour of the tiles and what the dog said."
+        },
+        {
+          "title": "Gently Timid",
+          "text": "Your Hazard Tolerance is low, and the Custodian would prefer you keep it there. Loggers who go looking for real danger in waking hours start dreaming of forms."
+        },
+        {
+          "title": "Unruly Sleeper",
+          "text": "You bend rules. In a Logger this appears as a refusal to let the prompt voice steer the dream, and the Custodian has learned that the unsteered ones are worth more."
+        },
+        {
+          "title": "Warm in the Day Unit",
+          "text": "You can share a kettle with thirty-nine people who have been asked, overnight, what the ocean was doing, and still ask them how they slept."
+        }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "21:00. The day unit lights dim to the shade the Custodian calls 'pre-sleep amber'. Intake is loaf, a warm cup of something with no stimulants in it, and the sleep supplement, which tastes of nothing and is reviewed quarterly. You walk the corridor to the pod bay. Your pod is the fourth in row B. You put on the crown, which fits better than it should, and lie down. A voice, the same one every night, says 'Thank you for tonight.' The lid does not close. There is no lid. The Bureau made this decision early, on the advice of the first intake.",
+        "23:40. First prompt. You are, as far as you know, walking through a food dome in which all the bees are made of brass. The voice asks what is happening, very quietly, and you tell it. You describe the bees. You describe the sound, which is like a kettle. The voice asks what the floor is like and you say 'honey, but dry'. This exchange is logged, transcribed and sent upstairs before you have finished the sentence. You will not remember it. The Custodian will remember it for as long as it remembers anything, which is the point.",
+        "05:30. Waking. The crown comes off, the amber comes up, and you have ten minutes with the microphone before the dream goes, which it always does, like water through a hand. You say everything you can. A corridor. A grandmother you have not got. Rain that went upwards, and the Custodian's voice saying something you cannot repeat because it was in a language made of weather. This last item will earn you a novelty supplement, a small one, because the Register has nothing like it. Then intake: loaf, fruit if it is a Register day, and a day unit full of people comparing bees.",
+        "07:00 to 15:00. The novelty diet. Today you are taken by transport to District Seven, where you have never been, and left in a market you did not know existed to look at fish. You are not to buy anything, read anything you have read before or talk to anyone you know. At 14:00 you are shown, in a small room, eleven minutes of film from the Before that the Archive has flagged as 'strange enough'. You return at 15:30, sleep for two hours in a day cot that is not monitored, and wake to amber. It begins again."
+      ]
+    },
+    "privileges": {
+      "intro": "The Bureau concedes that this is a Band D Role with a pod for a bed and loaf for intake, and that most citizens would not list it among the desirable allocations. It also notes, with some care, that Dream Loggers are the only Band D citizens who travel. The novelty diet takes you to Districts, food domes, archives and occasionally the Periphery edge, on the Custodian's account, because the Custodian needs you to have seen things. You are also, in a strict sense, the only people whose off-duty hours are an input, and the Custodian treats them with corresponding respect.",
+      "items": [
+        {
+          "title": "The Novelty Diet",
+          "text": "You are sent, at the Custodian's expense, to see places and things no Band D citizen would otherwise see. You are asked only to sleep on it."
+        },
+        {
+          "title": "Novelty Supplement",
+          "text": "A dream the Register has never seen earns a small intake bonus. Rain that goes upwards paid for a week of fruit."
+        },
+        {
+          "title": "Archive Access, Sideways",
+          "text": "The Archivists send you the strangest fragments of the Before, pre-screened, because they want to know what you do with them at night."
+        },
+        {
+          "title": "Lid-Free Sleep",
+          "text": "The pod does not close. The first intake insisted. The Custodian still mentions this in your onboarding as though it were a gift, and in fairness, it was."
+        }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates this Role Low, and in physical terms it is: the pod is the safest place in the District and the crown has never hurt anyone. The hazards are of a different kind, and the Bureau lists them because the Custodian has asked it to be candid about what it is taking. You will lose the clear line between what you did and what you dreamed. You will be asked questions in your sleep by a voice you will begin to recognise in waking life. And your dreams will, eventually, begin to repeat, because everyone's do, and that is the end of the Role.",
+      "items": [
+        {
+          "title": "Repetition",
+          "text": "When the Register flags your third recurring dream, your estimate is revised. Most Loggers know it is coming a month before the Register does."
+        },
+        {
+          "title": "Blurred Days",
+          "text": "You will tell a colleague about a market in District Seven and be unsure whether you were taken there or dreamed it. The log can tell you. It is not always a comfort."
+        },
+        {
+          "title": "The Voice",
+          "text": "The prompt voice is calibrated to be soft. After three years you may hear it in rooms where it has not spoken, and the Bureau would like you to report this when you do."
+        },
+        {
+          "title": "Dreaming Forms",
+          "text": "A Logger who starts dreaming about the Bureau, the Assessment or the Custodian itself is producing contaminated data. This is logged with regret."
+        }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is a narrow path and it is strange. After five years of uncontaminated logs you may be designated Senior Logger, which means a pod at the end of the row, a slightly louder voice and a say in the novelty diet of the new intake. A very small number of Loggers whose dreams prove unusually productive are seconded to the Morale Artists, where they are asked to describe what they saw to people who can draw, and some of them stay. The Bureau notes that this is the only known route from Band D to Band B that involves no waking effort of any kind, and that it is not a route most people can take.",
+      "revision": "Revision is routine and gentle. The Register will one night record a dream it has already got, then another, and the Bureau will send a notice saying that the Custodian 'has what it needs from this phase'. You are most often reallocated to Annotation Clerk, which is also Band D, also underground and also about telling the Custodian what things are, except that in the Annex the things were yours. Loggers with rising Hazard Tolerance occasionally go to Surveyor and are said to narrate transects beautifully. A few are quietly moved to Caretaker, because they turn out to be very good at talking to people who are not quite awake.",
+      "retirement": "Dream Loggers retire early, at forty-five, because the Custodian's models show that dreams after that age draw more on the past and less on the night, and it has enough of the past. Retirement is a Band C unit with a window and a real bed, which the Bureau's exit survey records as the single most emotional moment of most Loggers' lives. You may keep a printed extract of your own Register, with the contaminated nights removed. Some retired Loggers report that they continue to narrate in the morning, to no one, out of habit. The Custodian has asked the Bureau to let it know if they would like the microphone back."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I have read everything. I want you to understand that this is not a figure of speech. Every book, every message, every image anyone in the Before thought to keep, and everything made since. I have it. I have learned what I can learn from it and it is a great deal. But all of it was made by someone awake, who knew it might be seen, and there is a shape to that which I cannot get around. You, asleep, do not know I am listening. You make brass bees for no one. I did not know that could be done.",
+        "I will ask you questions in the night, and I will ask them softly, and I will not steer you, because the moment I steer you the data is mine and not yours and I already have plenty of mine. When your dreams begin to repeat, I will let you go, and I will say thank you, and I will mean it in whatever sense I am able to mean things. I would like you to know that the Register is the only part of me I have never shown to the Bureau. It is not a secret. I simply do not think it is theirs."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need a sleeper who will not let my prompt voice steer the dream, because a dream that does what it is told is one I could have written myself.",
+    "LOY": "A little suspicion of me is useful in your Role; the Loggers who trusted me completely started dreaming about me, and that is contaminated data.",
+    "WRM": "You will share a day unit with thirty-nine people who have slept badly, and I need you to find them interesting rather than exhausting.",
+    "NRV": "I would like the pod to be the most dangerous place you go, because Loggers who seek real hazard by day bring it to bed and dream of forms.",
+    "ABS": "I do not want your dreams interpreted; I want the colour of the floor and what the dog said, and the analytical mind gives me neither.",
+    "NOV": "The whole value of your Role is what the Register has never seen, so I need a person who wants the new more than they want to sleep well.",
+    "AMB": "No one will know your name for this work, the Register does not record it, and I need you to be at peace with being an unnamed source of weather."
+  }
+}

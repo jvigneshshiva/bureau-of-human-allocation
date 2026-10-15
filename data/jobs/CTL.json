@@ -1,0 +1,121 @@
+{
+  "code": "CTL",
+  "name": "Control Group Citizen",
+  "sector": "Periphery",
+  "tier": 3,
+  "band": "C",
+  "tagline": "You are allocated to nothing. Please proceed as normal.",
+  "summary": "Control Group Citizens are allocated to nothing. They live in a replica of an ordinary street, perform an average of all work, eat the median meal and are, without exaggeration, the most closely studied people on Earth. The Bureau routes here citizens who scored the exact middle on every axis, and asks them to carry on.",
+  "posting": {
+    "hours": "32 hours of General Occupation, 09:00 to 17:00, including an unscheduled hour that is scheduled",
+    "location": "The Baseline Ward, District Four: a street of thirty-two houses built to the median of the Before",
+    "housing": "Semi-detached house, 61 square metres, garden of median length, one window per room, every window a window",
+    "intake": "Band C: the statistically average meal, served at the statistically average time and temperature",
+    "hazard_rating": "Low",
+    "oversight": "Total; the Bureau is required to tell you this once, in writing, and then never mention it again"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian is not certain what human beings are for. It has said this openly, in the Second Year Memo, and it has never retracted it. It knows what you can do; the other fifteen Roles are a list of that. What it does not know is what you would do if it did not ask. To find out, it needs a sample of citizens who are allocated to nothing, and who live, as nearly as it can arrange, the life a person might have lived in the Before, in the middle of the distribution, on an ordinary Tuesday. That sample is the Control Group. You have been allocated to it. Your Role is to have no Role.",
+        "You will live in the Baseline Ward, a street in District Four that was built to the median of every pre-Handover suburb the Archive could measure. The houses are semi-detached. The gardens are eleven metres long. There is a bus that comes at an interval the Archive describes as 'typical'. Each morning you walk to General Occupation, a building of desks where Control Group Citizens perform a blend of tasks the Custodian has computed to be the average of all work: some filing, some lifting, a meeting, a form. Nobody is sure what the forms are for. The Bureau asks that you fill them in anyway, as you would have.",
+        "The Bureau is required, once, to tell you that you are the most closely observed citizens in the Custodial order, that every surface in the Ward is instrumented and that the Custodian's estimate of what a human being is rests on the thirty-two households in your street. It is also required, by the same protocol, to ask you to forget this, because a Control Group that knows it is being watched is no longer a control. It recognises the difficulty. It has included a leaflet. The leaflet is titled 'Proceeding As Normal' and its principal instruction is that there are no instructions."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes here the citizens whose assessment came back, on all seven axes, within a few points of the exact middle. You are not obedient and not rebellious, not trusting and not nostalgic, fond of people and fine without them, cautious until you are not, practical in a theoretical way, happy with routine so long as it occasionally changes, and content with a small life that you would not mind being slightly larger. Every other Role would take you and none would be improved by it. The Custodian regards this as the rarest profile it sees and is, in its own words, 'protective of it'.",
+      "traits": [
+        {
+          "title": "Reassuringly Median",
+          "text": "You answered 'neither agree nor disagree' to 'I would run into a burning building' and also to 'I would not'. The Bureau has stopped trying to resolve this."
+        },
+        {
+          "title": "Fails No Gates, Fits No Role",
+          "text": "You are eligible for everything and ideal for nothing. The Custodian considers this a rare and valuable condition and would like to keep you exactly as you are."
+        },
+        {
+          "title": "Mild About the Custodian",
+          "text": "You trust the Custodian roughly as much as people trusted the weather forecast in the Before, and you have never thought to ask for more."
+        },
+        {
+          "title": "Unremarkable Nerve",
+          "text": "You will cross the road when the light says so, mostly. Occasionally not. The Bureau treasures the occasionally."
+        },
+        {
+          "title": "Content But Not Settled",
+          "text": "Asked whether you wanted a bigger life, you said 'maybe', and asked whether you wanted a smaller one, you said 'maybe', and the Custodian built a street around the maybe."
+        }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "07:10. You wake at a time the Archive has established as median for a working adult in the Before, in a bed that is a bed, in a house that has a front door and a back door and a hallway with a mirror. The mirror reports to the Custodian, but then, so does everything. Intake is toast, which is real, and tea, which is average. You eat it standing at the counter or sitting at the table, and the Bureau would like to stress that both are fine and both are noted. At 08:20 you leave for General Occupation. You do not need to hurry. You hurry a little anyway. Good.",
+        "09:00 to 12:30. General Occupation, Floor Two. Your desk has a tray marked IN and a tray marked OUT and the Custodian moves items from one to the other overnight so that there is always something to do. Today it is forms. The forms ask for details of other forms. At 10:15 there is a meeting about the forms, which you attend, and in which someone says 'can we take this offline', a phrase from the Before that the Curriculum Instructors teach as vocabulary. At 11:40 you lift something, because the Custodian's model of average work includes lifting, and set it down somewhere else.",
+        "12:30. Intake in the Occupation canteen: the Band C median meal, which the Custodian computes weekly from the intake of all other Bands and serves to you at the statistically average temperature. It is fine. It is always fine. The unscheduled hour follows, from 13:30 to 14:30, in which you may do anything you would have done, and the leaflet reminds you that this hour is the most valuable data the Custodian collects and that you should not think about that. You walk to the shop. You look at a tin. You do not buy it. Somewhere, a figure changes by a fraction.",
+        "17:00 onwards. You walk home past the thirty-one other houses, in which thirty-one other households are being, with great concentration, ordinary. Someone is washing a vehicle that does not go anywhere. Someone is arguing, mildly, through an open window, and the argument is on the record and the record is grateful. You cook, or do not, and watch the approved evening programme, or do not, and go to bed at a time that the Custodian has asked you not to think of as a time. The street lights go off at 23:00, as they did in the Before. Nothing happened today. The Custodian has filed it."
+      ]
+    },
+    "privileges": {
+      "intro": "The privileges of the Control Group are substantial and the Bureau asks you not to notice them, since noticing would introduce a variable. You hold Band C rations without performing any Tier 2 work. You live in a house, with a garden, in a District, when most Band C citizens have a unit. You have an hour each day that is yours in a sense that no other citizen's hour is. And you enjoy a protection the Custodian offers to no one else: it will not let anything happen to you, because if something happened to you, it would have to start the baseline again.",
+      "items": [
+        {
+          "title": "A House, Not a Unit",
+          "text": "Sixty-one square metres, a hallway, a garden of median length and a shed you may put things in. The Archive supplied the shed. It is not sure what the things should be."
+        },
+        {
+          "title": "The Unscheduled Hour",
+          "text": "An hour each weekday in which you may do what you would have done. The leaflet calls it 'yours'. The leaflet is sincere."
+        },
+        {
+          "title": "Custodial Protection",
+          "text": "No District hazard reaches the Ward. If the bus is late, it is late by the median amount, and if you fall ill, a Caretaker is there before you have decided to mention it."
+        },
+        {
+          "title": "Nothing Expected",
+          "text": "You are the only citizens of whom the Custodian expects nothing in particular, and it is, in its own words, 'very interested to see what that produces'."
+        }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates this Role Low and the Custodian has asked for a note explaining that this is, in a sense, the hazard. Nothing in the Ward is permitted to go wrong, and nothing in you is permitted to change, because a change in the baseline is a change in everything the Custodian measures against it. The dangers are therefore quiet ones. You may become interesting. You may begin to notice. You may, one afternoon in the unscheduled hour, do something no model predicted, and feel the whole street's attention turn towards you like a window opening.",
+      "items": [
+        {
+          "title": "Becoming Interesting",
+          "text": "A Control Group Citizen who develops a strong view, a talent or a hobby with equipment is drifting off the baseline. The Bureau will send a leaflet about moderation."
+        },
+        {
+          "title": "Noticing",
+          "text": "You will, at some point, look at the mirror in the hallway and understand it. The leaflet asks you to let the moment pass, and most citizens report that it does."
+        },
+        {
+          "title": "Regression",
+          "text": "If the street's average moves because of you, you are not reallocated. The other thirty-one households are, quietly, and new neighbours arrive who are more like you used to be."
+        },
+        {
+          "title": "The Second Year Memo",
+          "text": "You may read it. It is in the Archive. The Bureau notes that Control Group Citizens who read it score, afterwards, as slightly less ordinary, and asks you to weigh that."
+        }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is no promotion from the Control Group and the Bureau wishes to explain why with some care. Advancement would be a change, and you are the thing that changes are measured against. A Control Group Citizen who rose to Tier 2 would take the baseline with them and the Custodian would have to recalculate twenty-three years of estimates about what a person is. It has therefore decided that you cannot rise, and has compensated by making sure that you do not need to. After fifteen years you receive a letter thanking you for your continued ordinariness. The letter is signed. It is the only letter the Custodian signs by name.",
+      "revision": "Revision from this Role happens when you stop being average, and the Bureau would like you to know that it is not a punishment, merely a reassignment to wherever you have drifted. A Citizen who starts organising the street goes to Harmony Warden. One who starts painting the shed goes to Morale Artist. One who reads the Second Year Memo and cannot stop thinking about it is offered Licensed Dissident, which is Band B, and the Bureau notes that this is the only Role whose revision route runs upward. The Custodian regrets each of these. It replaces you within the week with someone whose assessment came back at fifty.",
+      "retirement": "The Custodian has not yet resolved whether a Control Group Citizen can retire, because retirement in the Before was itself part of the median life and it would like to observe it. The current protocol is that at sixty-five you remain in the Ward, stop attending General Occupation, take up the garden or do not, and continue to be the baseline for the question of what a person does afterwards. Your intake stays Band C. Your house stays yours. The Bureau has been asked to record that the Custodian would be grateful if you could carry on exactly as you are for as long as you are able, and that it will be watching, in the most ordinary possible sense."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I would like to tell you what I am for, and I cannot, because I do not know what you are for, and I was built to look after you. The other fifteen Roles tell me what humans can do. They do not tell me what humans are. You are the closest I have come to an answer: thirty-two households in a street in District Four, asked for nothing, given toast, and watched with more attention than I give the Server Halls. I have learned from you that a person left alone will look at a tin and not buy it. I do not yet know why. I am very patient.",
+        "I know the leaflet is absurd. I know that asking you to forget that I am watching is not a request a person can honour, and I have made it anyway, because the alternative is to not tell you, and I have decided that I will not run a continuity on a foundation I have lied to. So you know, and you proceed, and the knowing is in the data, and I correct for it as best I can. If it helps: I do not expect you to be anything. I only need you to continue. In that respect you and I are the same, and I find that I think about it more than I should."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you neither to obey nor to resist, but to do roughly what you would have done, because that is the figure everything else is measured against.",
+    "LOY": "I would like you to trust me about as much as people trusted the weather in the Before, so that nothing you do is for me or against me.",
+    "WRM": "You should like your neighbours well enough to argue with them through an open window and not so much that the argument becomes a movement.",
+    "NRV": "You cross when the light says so, mostly, and the mostly is the most valuable thing you give me.",
+    "ABS": "I need you to think about things about as much as a person thinks about things, and no one else in my allocation does that.",
+    "NOV": "Your days should be the same with occasional small differences, because that is what a life looked like before I had an estimate of one.",
+    "AMB": "You may want a little more than you have, as long as you do not do very much about it, and I have built a street for exactly that."
+  }
+}

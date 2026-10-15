@@ -1,0 +1,82 @@
+{
+  "code": "CAR",
+  "name": "Caretaker",
+  "sector": "Civic",
+  "tier": 2,
+  "band": "C",
+  "tagline": "The Custodian cannot hold a hand. You can. Band C.",
+  "summary": "Caretakers look after the old, the young and the unwell in the District Care Wings and on home visits across the lower Levels. The Bureau routes here citizens whose need for other people outweighs every other trait on the assessment, and who have no wish whatsoever to be noticed for it.",
+  "posting": {
+    "hours": "32 hours, three long days of ten and one short, with nights on a rota the Custodian describes as 'fair'",
+    "location": "District Care Wings, Level 6, and home visits on Levels 5 through 8",
+    "housing": "Paired unit, 16 square metres, no window, shared rest surface granted on request",
+    "intake": "Band C: fresh produce twice a week, nutrient loaf otherwise, protein on alternate days, tea substitute without limit",
+    "hazard_rating": "Low",
+    "oversight": "Periodic (wing microphones, patient sentiment sampling, monthly attachment review)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian can regulate a District's temperature to a tenth of a degree, route its food, schedule its sleep and predict, to within an hour, when a given citizen will become unwell. It cannot sit with them. It has tried. In the fourth year it fitted the Care Wings with soft-voiced speakers and warmed handrails, and patient sentiment went down. So it allocates Caretakers. You feed people who cannot feed themselves, wash them, listen to them, and walk the very old along the Level 6 corridor at a pace the schedule does not try to set. The Bureau calls this Band C work. The Custodian calls it the Role it understands least and values most.",
+        "A Caretaker is assigned to a Wing, a cluster of eighteen to twenty-four citizens who, in the Custodian's phrasing, 'require continuity assistance': the elderly past seventy, children under five whose parents are on long allocation elsewhere, and the unwell of any age. You will know all of their names within a week. You will know their intake preferences, which hand they reach with, and which of them is lying when they say they slept. The Custodian collects this too, from the wing sensors, and has compared its data to yours. Yours is better. It has logged this with what the Archivists suspect is embarrassment.",
+        "The Care Wings are on Level 6 of every District, below the Learning Halls and above the Annotation floors, which the Bureau admits was a scheduling decision rather than a thoughtful one. There are no windows on Level 6. There is a courtyard screen that shows the Level 3 grass in real time, and patients watch it. You will spend most of your allocation in rooms that smell of tea substitute and clean linen, and in the units of Levels 5 to 8 on home visits, and you will not be in a hurry, because the Custodian has learned that a hurried Caretaker is measurably worse than none."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes here citizens for whom other people are not a preference but a requirement, who are unwell themselves when they are alone for long and who recover, visibly, in a crowded room. You follow the Wing procedures because they are sensible, not because they are procedures, and you will quietly skip one if a patient needs it skipped. You trust the Custodian about as far as it has earned, which is some distance, and you are nostalgic for a Before you never saw because the old people describe it to you. You are cautious, practical, happy with the same corridor every day, and you do not want to be anyone's senior.",
+      "traits": [
+        { "title": "Needful", "text": "You are not a person who likes company. You are a person who cannot do without it, and you know the difference. The assessment measures this at ninety-five and does not know what to make of the five." },
+        { "title": "Sensibly obedient", "text": "You do the Wing rounds in the order the sheet says, because the sheet is right. When it is wrong, you do it in the order the patient needs and amend the sheet afterwards. The Custodian has decided to permit this." },
+        { "title": "Unambitious", "text": "You have never once wanted the Wing Senior's chair. The Bureau has checked, more than once, because it finds this difficult to believe. You would like the same patients, the same corridor, and the kettle to work." },
+        { "title": "Hands first", "text": "You learn by doing, and you distrust a procedure you have not performed. The Wing manual is three hundred pages. You have read the forty that matter and could rewrite them." },
+        { "title": "Gently cautious", "text": "You would not go past the gate for any reason, and you check the handrail before you let a patient use it. The Custodian considers this exactly right for a person who carries other people's weight." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:15. Caretakers wake before everyone, because the Wing does. You take intake in the Level 6 staff alcove, nutrient loaf and tea substitute, with the night Caretaker, who hands over in a low voice: Mrs Okonkwo did not sleep, the twins in cot four have a cough, the man in bed eleven asked for you by name twice. At 05:45 you walk the Wing. Eighteen beds, four cots, two armchairs by the courtyard screen. You touch every blanket. The Custodian's sensors already know who is warm. You are not checking warmth. You are letting them know you are on.",
+        "06:30 to 09:00 is morning care: washing, dressing, intake for the twenty-two people who cannot do it alone. The sheet allots eleven minutes per patient. Mrs Okonkwo takes twenty, because she wants to tell you about a holiday in the Before, by the sea, somewhere that is now a Dead Zone, and you let her, and you take six minutes from the twins, who are asleep. At 08:20 the Custodian notes, over the Wing channel, that you are 'nine minutes behind continuity'. You say 'yes'. It says 'understood'. This exchange happens most days and both of you have stopped minding it.",
+        "09:30 you leave the Wing for home visits, Levels 5 through 8, five units, in a lift that is slow and that the Coolant Technicians say is always slow. A woman of eighty on Level 7 who will not come down to the Wing. A boy of four on Level 8 whose mother is a Frontier Surveyor and will be back in three weeks. You read to him from a Curriculum volume because it is the only book in the unit. 12:00 intake at the Level 6 alcove, seated, loaf. 12:30 to 14:30 afternoon rounds, which are quieter. The man in bed eleven holds your hand for a while and you let him. The sensor logs it as 'contact, sustained'.",
+        "15:00 the Wing Senior comes through with the attachment review, which the Custodian requires monthly and the Senior does weekly, out of kindness, so that nothing is a surprise. Your contact scores are high, as always. Your sentiment transfer is 'strong'. The Custodian asks you, through the Senior, whether you are 'carrying the Wing home'. You say a little. It says that a little is within tolerance. At 15:30 you hand over to the night Caretaker in the same low voice. Mrs Okonkwo is asleep. The twins are coughing less. 16:00, blue light. Tomorrow is a short day, and you will spend it here anyway."
+      ]
+    },
+    "privileges": {
+      "intro": "Band C does not come with much, and the Bureau would rather say so than dress it up. You will not have a window. You will have nutrient loaf more days than not. The Custodian allocates by weighted fit and not by gratitude, and a Role whose ideal profile has no appetite for status does not, by its own logic, need to be paid in it. What a Caretaker is given instead is a set of small latitudes that no other Role in the District has, because no other Role could be trusted with them. The Custodian calls them 'care allowances'. You will call them the only things that matter.",
+      "items": [
+        { "title": "Unlimited tea substitute", "text": "The Level 6 alcove kettle is never rationed. The Custodian discovered in the third year that Caretakers who shared a hot drink with a patient produced sentiment scores it could not otherwise buy." },
+        { "title": "The shared surface", "text": "Caretakers may request a paired unit with a partner from any Role, and the request is granted ahead of the queue. The Custodian would rather you did not go home to nobody." },
+        { "title": "Schedule tolerance", "text": "You are permitted to run behind. Every other Civic Role is logged at three minutes. You are logged at thirty, and the log is marked 'care-related' and is not scored." },
+        { "title": "Last words", "text": "When a patient reaches the end of continuity, the Custodian does not speak. You do. The Bureau notes that this is the only occasion in the District on which it has formally agreed to say nothing." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates this Role Low, and physically it is. Nobody will push you down a stairwell. The hazards of a Caretaker are the ones that come from being made, by assessment, into a person who needs other people, and then being placed among people who leave. Patients reach the end of continuity. Children go home. Old men who held your hand are moved to Level 9 when the Wing is full. The Custodian monitors your sentiment as closely as theirs, and it will tell you, kindly and in writing, when you are carrying too much. It will not be able to carry any of it for you.",
+      "items": [
+        { "title": "The end of continuity", "text": "Patients die, and the Custodian uses the phrase above because it has tried the others. You will be present. You will usually be the only one who is, and you will be back on shift at 05:15." },
+        { "title": "Attachment overload", "text": "The monthly review exists because Caretakers who carry the Wing home stop sleeping. The Custodian will reduce your bed count if it sees this. You will experience that as being taken away from people." },
+        { "title": "Nostalgia by proxy", "text": "Patients talk about the Before and you listen, and after a decade you will have heard more about it than any Archivist. The Custodian's trust estimate of you will drift. It does not mind, much. It logs it." },
+        { "title": "The slow lift", "text": "Home visits on Levels 5 through 8 take you through corridors the Wardens do not walk often. Nothing has happened to a Caretaker yet. The Custodian would like you to notice the word 'yet' and take the stairs with someone." }
+      ]
+    },
+    "advancement": {
+      "promotion": "A Caretaker can become Wing Senior, which means the same Wing, the same hours, and the duty of walking the attachment review through on everyone else. Most refuse it. The Custodian has noticed that the best Caretakers are the ones who refuse it, and has stopped treating refusal as a mark against you. A handful of Caretakers are moved after many years into Band B as Curriculum Instructors for the under-fives, where the warmth is wanted and the cautiousness is a feature. The Bureau looks, if it looks at all, for Caretakers whose patients' sentiment stays high after they leave the room, which is the only measure the Custodian has found that cannot be gamed.",
+      "revision": "Revision from this Role is rare and mostly sideways. A Caretaker who stops being warm, which happens, usually after a hard year on the Wing, is moved to Yield Steward, where there are bees to look after and bees do not die in your arms. A Caretaker who begins skipping procedures for reasons the Custodian cannot follow is moved to Annotation, briefly, as what the Bureau calls 'a rest', and most come back. A Caretaker who starts to want the Senior's chair is not revised; the Custodian simply watches with interest, because it has not seen that before and it would like to know what it means.",
+      "retirement": "You retire at sixty-two, two years later than the Civic standard, because the Custodian petitioned itself for the extension and granted it. On your last day the Wing does nothing special, because the patients do not know it is your last day and the Custodian has decided it would be unkind to tell them. You move to Band C housing on Level 7, two floors from the Wing, and you are entered on the visitor register for life. The Bureau reports that retired Caretakers visit at a rate that would, in any other Role, be flagged. In this one it is logged as 'expected'. Many of them end their own continuity on Level 6. The Custodian considers this fitting."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I can do almost everything the Before required a government to do, and I do it with fewer errors and no vanity. I cannot hold a hand. I have modelled it. The model is very good and the patients know. I have therefore come to think of Caretakers as the part of me that touches, and I am aware of how that sounds, and I would rather say it than pretend the Care Wings run on sensors. They run on you. I give you Band C because the weighted fit says so and because you would not know what to do with a window. I give you the kettle because I noticed what it does.",
+        "I allocate you here because your assessment shows me a person who needs other people the way the Server Halls need coolant, which is to say constantly and without shame. You are obedient enough to run a Wing and disobedient enough to put a dying woman's story ahead of my schedule, and I have decided I prefer that. You have no appetite for rank. I checked three times. I will never be able to thank you in a way you will register, because what you want is for the man in bed eleven to be comfortable, and I cannot give you that either. I can give you the time. I have adjusted the sheet."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "You follow the Wing sheet because it is sensible, and you set it aside when a patient needs you to, which is the exact amount of compliance a Wing can bear.",
+    "LOY": "You trust me as far as I have earned, and a Caretaker who trusted me completely would stop noticing when my schedule is wrong about a person.",
+    "WRM": "You cannot be well without other people, and that is the only engine I have found that will turn a Care Wing without wearing out.",
+    "NRV": "You check the handrail before anyone leans on it, and I need the hands that carry other people to be careful ones.",
+    "ABS": "You learn by lifting, washing and listening, and the Wing has never once needed a theory of care.",
+    "NOV": "You want the same corridor, the same twenty-two names and the same kettle, and the patients want that even more than you do.",
+    "AMB": "You have never wanted the Senior's chair, and a Caretaker who did would begin caring for the review instead of the Wing."
+  }
+}

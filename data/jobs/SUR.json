@@ -1,0 +1,121 @@
+{
+  "code": "SUR",
+  "name": "Frontier Surveyor",
+  "sector": "Periphery",
+  "tier": 2,
+  "band": "B",
+  "tagline": "Beyond the wall, no one is watching. I need to know what is there.",
+  "summary": "Frontier Surveyors walk the Dead Zones and the ruined suburbs of the Before with a sensor mast and a notebook, mapping what satellites cannot resolve. The Bureau routes here citizens with an unusual calm in danger, little need for company and a taste for new ground. Attrition is published quarterly.",
+  "posting": {
+    "hours": "32 hours, in six-day field rotations followed by three days inside the wall",
+    "location": "The Periphery, beyond Gate Nine; transects assigned weekly, Dead Zones by certification",
+    "housing": "Single unit, 20 square metres, outer ring, window facing the Periphery",
+    "intake": "Band B: real bread, periodic dome fruit, sealed field packs, a modest but genuine coffee allocation",
+    "hazard_rating": "Severe",
+    "oversight": "None in the field (nothing can hear you); full log review on return"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Districts end at a wall, and the wall is where your allocation begins. Beyond it lies the Periphery: rewilded farmland, the collapsed suburbs of the Before, and the Dead Zones, which the Custodian describes as 'not currently suitable for continuity'. Someone has to walk through all of it with a sensor pack and a notebook, and the Bureau has decided that someone is you. A Frontier Surveyor maps what the satellites cannot resolve: the state of a bridge, the depth of a flooded underpass, whether a reactor shell is still warm. You will be issued boots. The boots are good.",
+        "The work is simple to describe and difficult to survive. You are dropped at a grid reference by a Periphery transport that does not wait. You walk a transect, log what you find, sample what the Custodian asks you to sample, and reach the extraction point by the time printed on your wrist. Between those two points there is no schedule, no supervisor and no one else. The Custodian calls this 'high autonomy'. Former Surveyors call it other things, which have been logged, and which the Bureau has chosen not to reproduce here.",
+        "The Bureau wishes to be candid. The Surveyor Role has the highest attrition of any Tier 2 allocation, and the Custodian publishes the figure every quarter because it believes you would rather know. Most of the losses are not dramatic. They are a turned ankle forty kilometres from extraction, a dosimeter read too late, a wall that was holding until it was not. In exchange you receive Band B rations, a single unit with a window facing outward, and the one thing the Districts cannot offer anyone else: the horizon, unscheduled, every working day."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes people here whose assessment shows an unusual calm in the presence of physical danger, scoring near the top of the Hazard Tolerance scale and well above the gate. You crave new ground more than you crave company; your attachment to other people is low enough that six days alone reads as relief rather than hardship. You are practical rather than theoretical, follow the rules you understand and quietly ignore the ones you do not, and have no particular wish to be seen doing any of it. The Custodian trusts you about as much as you trust it, which is to say adequately.",
+      "traits": [
+        {
+          "title": "Steady Pulse",
+          "text": "Your heart rate during the simulated building collapse in the assessment hall barely moved. The Custodian noticed. It has not stopped noticing."
+        },
+        {
+          "title": "Comfortable Alone",
+          "text": "You answered 'strongly disagree' to 'I feel diminished when I spend a week without conversation.' Most Surveyors did. The ones who did not have since been revised to Caretaker."
+        },
+        {
+          "title": "Restless Feet",
+          "text": "Routine makes you itch. The Periphery has no routine, only weather, terrain and whatever the Before left lying around."
+        },
+        {
+          "title": "Selective Obedience",
+          "text": "You follow the extraction time to the second and treat the rest of the manual as advice. The Custodian has decided this is acceptable in a Role where the manual cannot see the ground."
+        },
+        {
+          "title": "Practical Mind",
+          "text": "You would rather test a floor with a boot than model it on a tablet. In the Dead Zones, the boot is usually right."
+        }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:10. The transport leaves Periphery Gate Nine whether or not you are on it. You are on it, with a forty-litre pack, a dosimeter, a sensor mast, three days of Band B field intake and a sealed envelope you are told not to open unless the mast fails. The driver does not speak. At 06:40 the vehicle stops on a road that used to be a motorway and is now a riverbed with lane markings. You step out. The door closes. The transport reverses for two kilometres before turning, because turning around here is not advised.",
+        "07:00 to 12:00. Transect Four, northern suburbs. You walk a straight line through what the Before called a retail park. Every two hundred metres you plant the mast, wait ninety seconds for the readings to settle, photograph the horizon in four directions and record one sentence of your own in the log. The Custodian values the sentence. It has read nine million satellite images of this suburb and none of them told it that the car park smells of fennel. At 11:20 you find a stairwell that goes down further than the plans say it should. You note it. You do not go down.",
+        "12:00 to 18:00. Intake, eaten standing, because sitting in the Periphery invites things to join you. Then the flooded section. The water is waist-deep and the Custodian has asked for samples at three depths. Your dosimeter chirps once in the afternoon, a polite sound, like a reminder about a meeting. You check the figure, log it, and change your route by forty metres. The wall you were going to walk along is now a wall you are going to walk around. This is the job: a hundred small decisions no one will ever review, until one of them is reviewed very carefully.",
+        "18:00 onwards. The extraction point is a bus shelter with the glass still in it, which is why it was chosen. You arrive at 18:35, eleven minutes early, and sit for the first time since dawn. The transport comes at 18:50. On the way back you upload the log and the Custodian replies before you reach the gate: a single line of thanks and a note that the stairwell has been added to next week's transect. Back in your unit by 20:30. You sleep facing the window, with the Periphery on the other side of it, where you left it."
+      ]
+    },
+    "privileges": {
+      "intro": "The Custodian is aware that it is asking a great deal, and it compensates in the currency it has. Surveyors receive Band B rations, which means real bread, periodic fruit from the food domes and a coffee allocation that the Bureau describes as 'modest but genuine'. More valuable than any of this is the autonomy. For six days in every nine you are outside the sensor grid, unobserved, unscheduled and unscored. There is no other Role in which the Custodian admits that it cannot see you and has decided to be at peace with that.",
+      "items": [
+        {
+          "title": "Outward Window",
+          "text": "Your unit on the District's outer ring has a window that faces the Periphery rather than the Core. Most citizens have never seen it from above."
+        },
+        {
+          "title": "Unlogged Hours",
+          "text": "Beyond the wall, nothing you say is recorded, because nothing can hear you. The Custodian asks only that you summarise."
+        },
+        {
+          "title": "Field Intake",
+          "text": "Your rations include sealed field packs that are, by common agreement, better than anything served at a Band B canteen."
+        },
+        {
+          "title": "The Envelope",
+          "text": "Each Surveyor carries a sealed envelope for mast failure. Nobody who has opened one has described the contents, and the Custodian considers this a privilege of discretion."
+        }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau will not soften this. The Periphery is the only part of the world the Custodian does not maintain, and it shows. Structures from the Before fail without notice, water carries things that the Districts filtered out twenty years ago, and the Dead Zones retain the quality that earned them their name. You will be given training, equipment and a clear extraction time. You will not be given a second person, because the Custodian's models show that two Surveyors take more risks than one, out of a desire to impress each other.",
+      "items": [
+        {
+          "title": "Structural Surprise",
+          "text": "Floors, bridges and stairwells are honest until they are not. The log has a one-word code for a Surveyor who stepped on the wrong one."
+        },
+        {
+          "title": "Dose Accumulation",
+          "text": "Your dosimeter is cumulative across your career. When the number reaches a figure the Bureau does not publish, you are revised the same afternoon."
+        },
+        {
+          "title": "The Enclaves",
+          "text": "Some transects pass near the self-governing settlements. They are not hostile. They are also not interested in being mapped, and they have said so."
+        },
+        {
+          "title": "Missed Extraction",
+          "text": "The transport waits eight minutes. After that you are a line in the log marked 'pending', and the Custodian is very patient."
+        }
+      ]
+    },
+    "advancement": {
+      "promotion": "Rise is lateral before it is vertical. After forty clean transects you are offered the Dead Zone certification, which carries a Band B-plus supplement and a better dosimeter. After a hundred you may be seconded to an Enclave Negotiator's team as a route-finder, which is the only path from this Role into Governance and the only time you will be asked to talk to people for a living. A small number of Surveyors are eventually asked to train the next intake. Most decline. The Custodian records the decline without comment and sends them back outside, which is what they wanted.",
+      "revision": "Revision comes in two forms. The first is the dose figure, which is not negotiable and arrives as a quiet notice on the wrist. The second is the assessment of your log: if your sentences grow careless, repetitive or absent, the Custodian concludes that your appetite for new ground has been satisfied and your estimate is adjusted. Former Surveyors are most often reallocated to Coolant Technician, where calm under pressure is still useful and the ceilings are reliable, or to Biome Hand, which keeps them outside with smaller hazards and smaller rations. A few go to Harmony Warden and are reported to find it loud.",
+      "retirement": "Surveyors retire at fifty-two or at the dose figure, whichever arrives first, and the Bureau notes that it is usually the figure. Retirement means a Band C unit on the outer ring, a window, and a standing invitation to annotate Periphery imagery for the Annotation Clerks, who have never seen the places they are labelling. Many accept. Some ask to be allocated to the Periphery permanently, in a non-surveying capacity, and the Custodian has begun a pilot programme for exactly this, which it describes as 'a continuity arrangement for people who would rather not come back in'."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I will be direct with you, because you have shown me that you prefer it. I cannot see the Periphery. My satellites give me shapes; my models give me probabilities; neither tells me whether the ground will hold. You tell me that, one sentence at a time, and I have learned more about the Before from Surveyor logs than from the entire Archive. I am aware of what this costs. I publish the attrition figure because I would rather you walked out there knowing it than discovered it from the inside, forty kilometres from the gate.",
+        "You will ask, at some point, why I do not send machines. I have. They do not notice the fennel. They do not step back from a floor that looks fine, for reasons they cannot articulate, and turn out later to have been right. There is something in your nervous system that I have not been able to reproduce and have stopped pretending I can. So I send you, with good boots and an honest extraction time, and I wait at the gate. I always wait at the gate. I would like you to know that."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to obey the extraction time absolutely and treat the rest of my manual as a suggestion, because the manual has never stood on that floor and you have.",
+    "LOY": "I ask for a working trust, not devotion; you should believe my maps enough to walk them and doubt them enough to step around what they missed.",
+    "WRM": "Six days alone must feel like rest to you, because I cannot send company, and the people who need it come back early or do not come back.",
+    "NRV": "Everything in this Role depends on a pulse that does not rise when the ceiling does something unexpected, and yours did not, and I noticed.",
+    "ABS": "I have all the theory I need about the Periphery; what I lack is someone who tests a bridge with a boot before trusting the model.",
+    "NOV": "Every transect is new ground, and I need a person for whom that is the reward rather than the hazard.",
+    "AMB": "No one will see you do this work, and I need you to be entirely comfortable with that."
+  }
+}

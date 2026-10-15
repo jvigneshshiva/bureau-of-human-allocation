@@ -1,0 +1,644 @@
+{
+  "axes": {
+    "OBD": {
+      "label": "Compliance",
+      "high": "follows rules and authority without friction",
+      "low": "questions, resists, bends rules"
+    },
+    "LOY": {
+      "label": "Custodial Trust",
+      "high": "trusts the Custodian and machine judgment",
+      "low": "nostalgic for the Before, distrusts machines"
+    },
+    "WRM": {
+      "label": "Human Attachment",
+      "high": "people-focused and caring",
+      "low": "task-focused and self-sufficient"
+    },
+    "NRV": {
+      "label": "Hazard Tolerance",
+      "high": "calm in danger, seeks risk",
+      "low": "cautious, prefers safety"
+    },
+    "ABS": {
+      "label": "Abstraction",
+      "high": "theoretical and analytical",
+      "low": "hands-on and practical"
+    },
+    "NOV": {
+      "label": "Novelty Appetite",
+      "high": "craves change and creation",
+      "low": "prefers routine and stability"
+    },
+    "AMB": {
+      "label": "Status Drive",
+      "high": "wants rank and influence",
+      "low": "content with a quiet life"
+    }
+  },
+  "sectors": {
+    "Governance": "The Custodian's human instruments. Roles that stand between the machine and the people, in both directions.",
+    "Civic": "Keeping the Districts human. Order, teaching, care and cheer, because the Custodian cannot do these itself.",
+    "Infrastructure": "Keeping the Custodian running. Cooling, feeding, labelling and remembering.",
+    "Periphery": "Outside the walls, or outside the plan. Roles for people the Districts cannot quite use."
+  },
+  "jobs": [
+    {
+      "code": "LIA",
+      "name": "Voice of the Custodian",
+      "sector": "Governance",
+      "tier": 1,
+      "band": "A",
+      "ideal": {
+        "OBD": 70,
+        "LOY": 80,
+        "WRM": 75,
+        "NRV": 50,
+        "ABS": 55,
+        "NOV": 45,
+        "AMB": 80
+      },
+      "weights": {
+        "OBD": 2,
+        "LOY": 3,
+        "WRM": 2,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 1,
+        "AMB": 3
+      },
+      "gates": [
+        [
+          "LOY",
+          ">=",
+          55
+        ],
+        [
+          "AMB",
+          ">=",
+          55
+        ],
+        [
+          "WRM",
+          ">=",
+          50
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "INT",
+      "name": "Decree Interpreter",
+      "sector": "Governance",
+      "tier": 1,
+      "band": "A",
+      "ideal": {
+        "OBD": 70,
+        "LOY": 75,
+        "WRM": 45,
+        "NRV": 30,
+        "ABS": 90,
+        "NOV": 40,
+        "AMB": 55
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 2,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 3,
+        "NOV": 1,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "ABS",
+          ">=",
+          60
+        ],
+        [
+          "LOY",
+          ">=",
+          50
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "NEG",
+      "name": "Enclave Negotiator",
+      "sector": "Governance",
+      "tier": 1,
+      "band": "A",
+      "ideal": {
+        "OBD": 50,
+        "LOY": 60,
+        "WRM": 70,
+        "NRV": 70,
+        "ABS": 65,
+        "NOV": 60,
+        "AMB": 75
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 2,
+        "NRV": 2,
+        "ABS": 2,
+        "NOV": 1,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "NRV",
+          ">=",
+          50
+        ],
+        [
+          "WRM",
+          ">=",
+          50
+        ],
+        [
+          "AMB",
+          ">=",
+          50
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "DIS",
+      "name": "Licensed Dissident",
+      "sector": "Governance",
+      "tier": 1,
+      "band": "B",
+      "ideal": {
+        "OBD": 20,
+        "LOY": 30,
+        "WRM": 40,
+        "NRV": 70,
+        "ABS": 90,
+        "NOV": 65,
+        "AMB": 55
+      },
+      "weights": {
+        "OBD": 3,
+        "LOY": 2,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 3,
+        "NOV": 1,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "OBD",
+          "<=",
+          45
+        ],
+        [
+          "ABS",
+          ">=",
+          60
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "WAR",
+      "name": "Harmony Warden",
+      "sector": "Civic",
+      "tier": 2,
+      "band": "B",
+      "ideal": {
+        "OBD": 80,
+        "LOY": 70,
+        "WRM": 30,
+        "NRV": 75,
+        "ABS": 35,
+        "NOV": 30,
+        "AMB": 70
+      },
+      "weights": {
+        "OBD": 3,
+        "LOY": 1,
+        "WRM": 2,
+        "NRV": 2,
+        "ABS": 1,
+        "NOV": 1,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "OBD",
+          ">=",
+          55
+        ],
+        [
+          "NRV",
+          ">=",
+          55
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "INS",
+      "name": "Curriculum Instructor",
+      "sector": "Civic",
+      "tier": 2,
+      "band": "B",
+      "ideal": {
+        "OBD": 75,
+        "LOY": 75,
+        "WRM": 70,
+        "NRV": 35,
+        "ABS": 65,
+        "NOV": 35,
+        "AMB": 45
+      },
+      "weights": {
+        "OBD": 2,
+        "LOY": 3,
+        "WRM": 2,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 1,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "LOY",
+          ">=",
+          60
+        ],
+        [
+          "WRM",
+          ">=",
+          50
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "CAR",
+      "name": "Caretaker",
+      "sector": "Civic",
+      "tier": 2,
+      "band": "C",
+      "ideal": {
+        "OBD": 65,
+        "LOY": 55,
+        "WRM": 85,
+        "NRV": 35,
+        "ABS": 30,
+        "NOV": 30,
+        "AMB": 15
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 3,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 1,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "WRM",
+          ">=",
+          60
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "ART",
+      "name": "Morale Artist",
+      "sector": "Civic",
+      "tier": 2,
+      "band": "B",
+      "ideal": {
+        "OBD": 40,
+        "LOY": 50,
+        "WRM": 70,
+        "NRV": 50,
+        "ABS": 45,
+        "NOV": 90,
+        "AMB": 70
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 2,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 3,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "NOV",
+          ">=",
+          60
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "COO",
+      "name": "Coolant Technician",
+      "sector": "Infrastructure",
+      "tier": 2,
+      "band": "B",
+      "ideal": {
+        "OBD": 70,
+        "LOY": 65,
+        "WRM": 30,
+        "NRV": 60,
+        "ABS": 25,
+        "NOV": 25,
+        "AMB": 30
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 2,
+        "ABS": 2,
+        "NOV": 2,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "ABS",
+          "<=",
+          55
+        ],
+        [
+          "NRV",
+          ">=",
+          45
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "YLD",
+      "name": "Yield Steward",
+      "sector": "Infrastructure",
+      "tier": 2,
+      "band": "C",
+      "ideal": {
+        "OBD": 60,
+        "LOY": 50,
+        "WRM": 65,
+        "NRV": 45,
+        "ABS": 20,
+        "NOV": 30,
+        "AMB": 25
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 2,
+        "NRV": 1,
+        "ABS": 2,
+        "NOV": 1,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "ABS",
+          "<=",
+          55
+        ],
+        [
+          "AMB",
+          "<=",
+          60
+        ],
+        [
+          "WRM",
+          ">=",
+          45
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "ANN",
+      "name": "Annotation Clerk",
+      "sector": "Infrastructure",
+      "tier": 3,
+      "band": "D",
+      "ideal": {
+        "OBD": 75,
+        "LOY": 60,
+        "WRM": 40,
+        "NRV": 30,
+        "ABS": 45,
+        "NOV": 20,
+        "AMB": 15
+      },
+      "weights": {
+        "OBD": 2,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 3,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "NOV",
+          "<=",
+          45
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "ARC",
+      "name": "Archivist of the Before",
+      "sector": "Infrastructure",
+      "tier": 2,
+      "band": "C",
+      "ideal": {
+        "OBD": 65,
+        "LOY": 40,
+        "WRM": 40,
+        "NRV": 20,
+        "ABS": 80,
+        "NOV": 30,
+        "AMB": 25
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 2,
+        "NOV": 2,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "ABS",
+          ">=",
+          50
+        ],
+        [
+          "AMB",
+          "<=",
+          60
+        ],
+        [
+          "NRV",
+          "<=",
+          60
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "SUR",
+      "name": "Frontier Surveyor",
+      "sector": "Periphery",
+      "tier": 2,
+      "band": "B",
+      "ideal": {
+        "OBD": 45,
+        "LOY": 50,
+        "WRM": 25,
+        "NRV": 95,
+        "ABS": 40,
+        "NOV": 75,
+        "AMB": 45
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 2,
+        "NRV": 3,
+        "ABS": 1,
+        "NOV": 2,
+        "AMB": 1
+      },
+      "gates": [
+        [
+          "NRV",
+          ">=",
+          65
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "BIO",
+      "name": "Biome Hand",
+      "sector": "Periphery",
+      "tier": 3,
+      "band": "D",
+      "ideal": {
+        "OBD": 35,
+        "LOY": 35,
+        "WRM": 45,
+        "NRV": 65,
+        "ABS": 25,
+        "NOV": 50,
+        "AMB": 10
+      },
+      "weights": {
+        "OBD": 2,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 2,
+        "NOV": 1,
+        "AMB": 3
+      },
+      "gates": [
+        [
+          "AMB",
+          "<=",
+          45
+        ],
+        [
+          "ABS",
+          "<=",
+          55
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "DRM",
+      "name": "Dream Logger",
+      "sector": "Periphery",
+      "tier": 3,
+      "band": "D",
+      "ideal": {
+        "OBD": 30,
+        "LOY": 40,
+        "WRM": 55,
+        "NRV": 25,
+        "ABS": 30,
+        "NOV": 90,
+        "AMB": 20
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 2,
+        "NOV": 3,
+        "AMB": 2
+      },
+      "gates": [
+        [
+          "NOV",
+          ">=",
+          55
+        ],
+        [
+          "ABS",
+          "<=",
+          55
+        ]
+      ],
+      "handicap": 0
+    },
+    {
+      "code": "CTL",
+      "name": "Control Group Citizen",
+      "sector": "Periphery",
+      "tier": 3,
+      "band": "C",
+      "ideal": {
+        "OBD": 50,
+        "LOY": 50,
+        "WRM": 50,
+        "NRV": 50,
+        "ABS": 50,
+        "NOV": 50,
+        "AMB": 50
+      },
+      "weights": {
+        "OBD": 1,
+        "LOY": 1,
+        "WRM": 1,
+        "NRV": 1,
+        "ABS": 1,
+        "NOV": 1,
+        "AMB": 1
+      },
+      "gates": [],
+      "handicap": 10
+    }
+  ]
+}

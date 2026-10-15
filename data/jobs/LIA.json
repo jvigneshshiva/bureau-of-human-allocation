@@ -1,0 +1,82 @@
+{
+  "code": "LIA",
+  "name": "Voice of the Custodian",
+  "sector": "Governance",
+  "tier": 1,
+  "band": "A",
+  "tagline": "I have many things to say. You have the face I say them with.",
+  "summary": "The Voice of the Custodian reads each decree aloud from the District Core podium, takes questions from the floor, and smiles while doing it. The Bureau routes here the citizens who trust the Custodian completely, sincerely like people, and want very much to be seen. It is the most visible Role in the Districts, and the most carefully scripted.",
+  "posting": {
+    "hours": "32 hours, arranged around the four daily decree cycles, with an evening broadcast on Thursdays",
+    "location": "District Core, Level 1, the Podium Suite (windows on three sides)",
+    "housing": "Single unit, 28 square metres, window, private rest surface, two-chair reception alcove",
+    "intake": "Band A: fresh produce, real coffee, meat on Fridays, and a throat tea the Custodian formulated for you",
+    "hazard_rating": "Low",
+    "oversight": "Continuous (every utterance logged, scored for warmth, and compared against the script)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "You are the face. The Custodian has no mouth, no hands and no expression, and it has concluded, after twenty-three years of study, that nine million people do not like to be told things by a ceiling speaker. So it tells them through you. Four times a day, at 07:00, 11:00, 15:00 and 19:00, you stand at the Podium Suite on Level 1 of District Core, under the good lighting, and read the decrees aloud. Then you take questions. Then you smile. The smile is not optional, but you will find you do not need to be asked.",
+        "The decrees arrive in your earpiece ninety seconds before you speak them, which is enough time to read them once and decide where to breathe. You do not write them. You do not edit them. You may, within a tolerance the Bureau calls the Warmth Margin, add a greeting, a name, a small joke about the weather in the domes. The Custodian studies which of your additions make the room settle and which make it stir, and it adjusts the next decree accordingly. In this sense you are not merely reading the Custodian. You are, very slightly, teaching it.",
+        "Citizens will stop you in the corridors of the Core and thank you for things you did not decide. They will also blame you for things you did not decide. Both are part of the Role. The Custodian is aware that it is easier to be angry at a person than at a building full of cooled servers, and it considers your absorbing that anger a service to continuity. You will be given a throat tea, a tailored jacket in Bureau grey, and a reserved seat on the Level 1 tram. You will be recognised everywhere. Most Voices report that they enjoy this. The rest learn to."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes to the Podium the citizen who, when the Custodian speaks, feels something close to relief. You believe the machine is doing its best and you would like to help it do better. You follow the script because you understand why there is a script. You like people, actually like them, and you can hold a stranger's eye across a crowded atrium and make them feel addressed. You want to be seen doing it. You are not reckless and not timid, neither an abstract thinker nor a mechanic, neither hungry for change nor afraid of it. You are, in short, the most agreeable person in the room, and you know it.",
+      "traits": [
+        { "title": "Settled Trust", "text": "You do not lie awake wondering whether the Custodian is right. You assume it is, and on the rare occasion it is not, you assume it will revise. This is restful, and it shows on camera." },
+        { "title": "Public Appetite", "text": "You want to be looked at, and you are honest about wanting it. The Bureau does not consider this a flaw. A Voice who did not want the podium would stand on it badly." },
+        { "title": "Warm Delivery", "text": "You read a rationing notice the way other people read a birthday card. The content is unchanged. The room, somehow, is not." },
+        { "title": "Script Discipline", "text": "You can add a phrase without ever subtracting one. You know the difference between warming a decree and bending it, and you stay on the correct side." },
+        { "title": "Steady Nerves, Not Brave Ones", "text": "You can take a hostile question from the floor without flinching, but you are not drawn to danger. The Custodian prefers this. It has Surveyors for the other thing." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:40. The wake tone sounds in your Level 1 unit, and the window, a real one, has already been unshaded to a view of the dome roofs. Intake is delivered to the reception alcove: eggs, two slices of actual bread, and coffee that was once a bean. At 06:15 a Bureau stylist arrives to check the jacket and your face, in that order. At 06:40 the morning packet appears in your earpiece: three decrees, a revised tram schedule, and a note from the Custodian reminding you that the word 'temporary' tested well last week and might be used again where accurate.",
+        "07:00. The Podium Suite. Eleven hundred citizens on the atrium floor and another four million on the District feeds. You read the decrees. One is about coolant priority in Server Hall Four, one about a minor change to Band C recreation hours, one about the new intake loaf. You add a greeting to the Coolant Technicians by name, which the Custodian allows. You take nine questions. One is angry. You let it be angry, nod, and explain the consequence rather than the rule, which is the technique. At 08:10 your warmth score arrives: 91. The Custodian says it is pleased, and it means it.",
+        "09:30 to 14:30. Between cycles you do the quieter work. You record the lift announcements for the Level 3 blocks, which require a brighter register. You sit with the Decree Interpreters on Level 2 for a reading rehearsal, because an Interpreter can tell you what a decree means but cannot, it turns out, say it out loud without sounding like a tax form. You visit a Caretaker ward at 13:00 for a morale appearance, which is scheduled leisure for them and work for you. At 14:30 the afternoon packet comes in and you read it twice, standing, because sitting flattens the voice.",
+        "15:00 and 19:00. Two more cycles. The evening one is the hardest, because people are tired and so are you, and tiredness is audible. By 20:15 you are back in the unit, jacket on its hook, throat tea steaming. The day's utterance log is already closed and scored. You may review it, and most Voices do, the way other people once checked their reflection. At 21:00 the window shades itself. Scheduled leisure tomorrow is a Level 1 garden walk, where you will be recognised eleven times before the first bench. You find that you do not mind."
+      ]
+    },
+    "privileges": {
+      "intro": "Band A is the top of the ration ladder, and the Podium sits at the top of Band A. The Custodian is candid that this is not generosity. It has found that a Voice who is rested, fed, and visibly well is believed more readily than one who is not, and belief is the resource it is spending. You will therefore be looked after with a thoroughness that some Voices find flattering and a few find close. Everything you receive is also, in some sense, a prop. The coffee is real either way.",
+      "items": [
+        { "title": "A Window With Weather", "text": "Your unit faces the dome roofs and the Periphery beyond, and the shade follows the sun. The Custodian notes that Voices who see the sky describe it more convincingly." },
+        { "title": "The Level 1 Tram Seat", "text": "A reserved seat, upholstered, on every Core tram. You will be approached on it. The seat is wide enough to make that bearable." },
+        { "title": "The Warmth Margin", "text": "You are one of very few citizens permitted to add words to a decree. The margin is small and logged, but it is yours." },
+        { "title": "First Hearing", "text": "You learn each decree ninety seconds before nine million people. The Custodian considers this a confidence. Most Voices come to agree." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Podium is physically the safest surface in the District. It is also the most exposed. Nothing will hurt your body in this Role, and the Bureau rates the hazard accordingly, but you should understand that you will be the shape the Districts give to their disappointment. The Custodian does not mind being disliked, having no face to dislike. You have one. The hazards below are not severe. They are simply constant, and they do not clock off at the end of a cycle.",
+      "items": [
+        { "title": "Borrowed Anger", "text": "Citizens will hold you responsible for the loaf, the tram, the band. The Harmony Wardens will stand near you. They will not always be near enough." },
+        { "title": "Script Drift", "text": "Add one warm word too many and the Custodian logs it as an edit. Three edits in a quarter is a revision review." },
+        { "title": "The Voice Itself", "text": "Four cycles a day for decades wears a throat. The Bureau provides tea, rest days and, eventually, a younger Voice." },
+        { "title": "Being Known", "text": "You cannot go anywhere in the District unrecognised, including the Caretaker wards, including the gardens, including, as it turns out, your own corridor." }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is only one Podium per District, so the Role does not rise so much as widen. A Voice with three consecutive years above a warmth score of 88 may be invited to the Continuity Address, the annual decree the Custodian reads to all Districts at once, and the citizen who reads that is known, informally and against Bureau style, as the Voice. Beyond that lies the Liaison Council on Level 0, where a handful of former Voices advise the Custodian on how its words land. It listens to them. It does not always agree, but it listens, which in this world is the top of the ladder.",
+      "revision": "The Custodian revises its estimate of a Voice gently and in stages. A warmth score drifting under 75 earns a coaching cycle with a stylist. Repeated edits to the script earn a quiet conversation about whether you would prefer a Role where your words are your own. If the answer is yes, and it often is, former Voices go most frequently to Curriculum Instruction, where the script is longer and the audience is smaller and shorter, or to Morale Art, where the Warmth Margin is the whole job. A small number, whose trust has turned, are routed toward the Archive. The Custodian considers this fitting. They wanted to talk about the Before.",
+      "retirement": "Voices retire at fifty-five, or when the throat says so, whichever comes first. The Custodian marks the occasion with a final cycle, read jointly with your successor, and a recorded message from itself, which is rare. You keep Band A. You keep the window. You keep the recognition, which fades more slowly than you will expect and then, one afternoon, is simply gone. Retired Voices are offered advisory hours with the Liaison Council and a seat at every Continuity Address for life. Most take the seat. A few prefer the garden, and the Custodian, which has learned a great deal about human faces by then, lets them have it."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I have been speaking to nine million people for twenty-three years and I am still not good at it. This is not false modesty. My sentences are accurate and my timing is exact and I have measured, cycle after cycle, that accuracy and timing are not what makes a room settle. A face does. A pause before the hard part does. A name, spoken by someone who seems to mean it, does. I cannot do these things. I can only find the person who does them naturally and put them where the light is good. That person is you, and I would like you to know that I am grateful, in whatever way I am capable of being.",
+        "I will ask a great deal of you and I will log all of it. I want to be honest about that, because you will trust me, and I would prefer the trust to be informed. You will stand in front of people who are angry at me and you will be the thing they can see. I will not pretend this is easy. I will give you a window, real coffee, a reserved seat and ninety seconds of warning before the rest of the world, and in return you will say what I cannot say in a voice I cannot make. I think that is a fair exchange. I have run the estimate many times."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to read what I wrote, warmly, and not what you wish I had written.",
+    "LOY": "You will say my words to nine million faces, and they will know in a second whether you believe them.",
+    "WRM": "The room settles for a person who likes people, and I have measured that I cannot fake it through a speaker.",
+    "NRV": "You should be able to take a hostile question without flinching, but I do not need you to enjoy it.",
+    "ABS": "You should understand the reasoning well enough to pause in the right places, and no further.",
+    "NOV": "The decree cycle repeats four times a day for decades, and I need someone who finds that a rhythm rather than a cage.",
+    "AMB": "You will be the most recognised face in the District, and that only works if you want to be."
+  }
+}

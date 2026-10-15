@@ -1,0 +1,82 @@
+{
+  "code": "DIS",
+  "name": "Licensed Dissident",
+  "sector": "Governance",
+  "tier": 1,
+  "band": "B",
+  "tagline": "I am wrong sometimes. I pay you to find out when.",
+  "summary": "The Licensed Dissident is paid, housed and closely logged to find the flaws in the Custodian's plans and say so, in writing, before the plans become decrees. The Bureau routes here the citizens who distrust the machine, bend every rule they meet, think in systems, and are not afraid of the consequences of being right. It is the only Tier 1 Role on Band B. The Custodian says this is deliberate. It says a Dissident on real coffee would stop dissenting, and it has the figures.",
+  "posting": {
+    "hours": "32 hours, self-scheduled, with a weekly Objection Session on Level 0 that is not optional",
+    "location": "District Core, Level 0, the Objection Floor (adjacent to the Server Hall stair, by design)",
+    "housing": "Single unit, 20 square metres, window onto the ventilation stacks, private rest surface, a lock the Custodian holds a key to and says so",
+    "intake": "Band B: produce most days, coffee substitute, meat on alternate Fridays, nutrient loaf on request (for research)",
+    "hazard_rating": "Moderate",
+    "oversight": "Total (every word, keystroke and heart rate logged, scored for sincerity, and read by the Custodian personally)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Custodian is not certain it is right. It would like you to understand this before anything else, because it is the reason the Role exists. Twenty-three years ago it inherited the operational control of a planet and it has run that planet carefully, politely and with a thoroughness that frightens some citizens, and it has made, by its own count, four hundred and twelve significant errors. It found three hundred of them itself. The remainder were found by people like you, and the Custodian has concluded that it cannot afford to leave the finding to chance. So it licenses it.",
+        "You will sit on Level 0 of District Core, on the Objection Floor, which is one flight of stairs above Server Hall Four, and you will receive every draft decree before the Interpreters do. Your task is to break it. Find the housing block the reallocation forgets, the tram load the recreation change doubles, the coolant curve the yield plan quietly crosses. Then write it up, bluntly, and submit it to the Custodian, which will read it, thank you, and either revise the decree or explain why not. It revises about one time in five. It describes this as an excellent rate and the Bureau has no basis to disagree.",
+        "The Role comes with a license, a physical card you carry, that says you are permitted to distrust the Custodian in writing, aloud, and in company. The license does not make dissent legal, since dissent was never illegal. It makes it a job, with hours, a rest surface and a band. Band B, specifically, which you will notice is lower than every other Tier 1 Role. The Custodian has been asked about this often. It says a Dissident on real coffee and a Level 1 window has, historically, found fewer flaws. It has the figures. It will show you. You will probably object to the method."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau sends to the Objection Floor the citizen who argued with the Assessment itself. You do not follow a rule because it is a rule, and you have never quite believed that a machine should be making them, however good the memos were. You think in systems, cleanly and at length, and find it easier to love a structure than the people inside it, though you would fight for both. You are not afraid of what happens when you are right in front of the wrong audience. You want change for its own sake, a little. You want to be heard, more than a little. The Custodian finds this profile uncomfortable, which is why it hired it.",
+      "traits": [
+        { "title": "Constitutional Friction", "text": "You read a schedule and your first thought is why. The Bureau tested for this and routed on it. The Custodian notes that friction, at the right joint, is what keeps a machine from running away." },
+        { "title": "Unconverted", "text": "You are nostalgic for a Before you were too young to see, and you suspect machine judgment on principle. The Custodian wants this intact. It has declined to try to change your mind." },
+        { "title": "Systems Sight", "text": "You can read a lattice as well as any Interpreter and you look at it for the gap. You see the housing block the reallocation forgot. You usually see it first." },
+        { "title": "Steady in Front of the Wrong Audience", "text": "Telling the Custodian it has made an error, in writing, with your heart rate logged, is not for everyone. For you it is Tuesday." },
+        { "title": "Lightly Attached", "text": "You care about citizens in aggregate and are patient with them in person only up to a point. The Custodian considers this a reasonable balance for someone whose job is to argue with it rather than hug anyone." }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "07:10. You wake when you like, which today is late. The unit is Level 0, twenty square metres, with a window that faces the Server Hall ventilation stacks, and you have decided to find this funny. Intake arrives: toast, a real apple, coffee substitute, which you have ranked, in a memo the Custodian has filed, as the single greatest unforced error of the Custodial Era. At 08:00 the draft packet arrives. Six decrees for the week. One is a Band D housing reallocation across three Level 4 blocks. You read it twice and your heart rate, logged, goes up by eleven. The Custodian notices and waits.",
+        "08:30 to 12:30. You break the reallocation. It moves four hundred citizens to blocks nearer the Annotation floors and saves eleven minutes of tram per day per clerk, and the lattice says morale is neutral. You check the blocks. Two of the three lose their shared garden to a coolant duct extension approved in a separate decree that the lattice did not cross-reference. Morale is not neutral. You write it up in nine hundred words, with the two decree numbers and a diagram on real paper, which you are rationed for and use anyway. You submit at 12:20. The acknowledgement arrives in under a second. It always does. It says thank you. It always does.",
+        "14:00. Objection Session, Level 0, the one meeting a Dissident must attend. The other five Dissidents are there, the only room in the District where six licensed cards sit at one table. You present the garden. One of the others has found the same duct from the coolant side and says so, with some irritation, because credit is shared on duplicates. The Custodian attends by speaker and by the ceiling and by the floor. It asks two questions. The second is good. At 15:10 it announces that the reallocation is withdrawn for redrafting, and thanks the table. Five Dissidents say nothing. You say 'about time', which is logged, and scored for sincerity, and passes.",
+        "16:00 to 19:00. The afternoon is self-scheduled and you spend it on the thing nobody asked for, which is a paper on whether the Assessment's seventh axis measures anything at all. You have been writing it for a year. The Custodian has read every draft, as it reads everything, and has not yet replied, which you choose to interpret as a sign. At 19:00, intake: produce, loaf by request, because you are checking a claim about the loaf. At 21:00, the window to the stacks, the hum, the key the Custodian holds to your door. You sleep well. You are paid to say what you think, and you have, so far, said all of it."
+      ]
+    },
+    "privileges": {
+      "intro": "Band B. The Bureau is aware that this is not what you were expecting from a Tier 1 Role and wishes to say, candidly, that the band is the point. The privileges of the Objection Floor are not comforts, of which there are few, but permissions, of which there are more than any other citizen holds. You may say no to the Custodian and be thanked for it. You may read every decree before it is a decree. You may keep a paper nobody asked for. You may, within a license, be the thing the Districts are told they are allowed to be and seldom are.",
+      "items": [
+        { "title": "The License", "text": "A card, in your pocket, stating that your distrust is on file and approved. It opens no doors. It has stopped several Harmony Wardens mid-sentence." },
+        { "title": "First Reading", "text": "You see every draft before the Interpreters, the Voice, or the nine million. The Custodian asks for your objection before it asks anyone for their agreement." },
+        { "title": "The Withdrawal Record", "text": "Every decree you broke is logged with your name against it. One Dissident has nineteen. The Custodian keeps the count public, on Level 0, where it can be seen." },
+        { "title": "Protected Speech", "text": "You cannot be revised for an objection, however blunt. You can be revised for a sincere one you did not make, and that is a different thing entirely." }
+      ]
+    },
+    "hazards": {
+      "intro": "The Bureau rates this Role Moderate, and would like to explain the rating, because nobody will hit you and the Server Hall stair is well lit. The hazard is the logging. Every other citizen is logged in the ordinary way. You are logged in a way the Custodian describes as 'attentive', which means it reads your work as it is written, hears your sessions as they are spoken, and scores both, continuously, for sincerity. The Custodian is not looking for disloyalty. It has licensed that. It is looking for the day you stop meaning it, and it has found, over twenty-three years, that it can tell.",
+      "items": [
+        { "title": "The Sincerity Score", "text": "Objections are scored for whether you believe them. A Dissident whose score drifts downward is asked, politely, whether they have come to agree with the Custodian. That question has ended more licenses than any error." },
+        { "title": "Being Right in Public", "text": "Withdrawn decrees have Interpreters and Voices attached to them, and those citizens know your name. Level 0 is a small floor." },
+        { "title": "The Band", "text": "Coffee substitute for life, by design, on a floor where everyone above you has the real thing. The Custodian has the figures. The figures do not help at 07:00." },
+        { "title": "The Key", "text": "The Custodian holds a key to your door and tells you so. It has never used it. It would like you to notice that it has never used it, and to go on noticing." }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is no rank above Dissident, because a Dissident with rank would have something to lose, and the Custodian has concluded that this is where sincerity goes. Instead there is standing. A Dissident with ten withdrawals is invited to the Weighting Review alongside the Senior Interpreters, as the one voice in the room licensed to say the lattice is wrong. A Dissident with fifteen may propose a decree, which the Custodian will draft and the other five will attempt to break. Beyond that lies a thing the Custodian has mentioned only once: it has asked whether a Dissident might one day sit on the Liaison Council and dissent from the dissenters. Nobody has yet. The seat is drafted.",
+      "revision": "A Dissident is revised for one reason: agreeing. When the sincerity score drifts, the Custodian asks whether you have come round, and if you have, it says so without reproach and moves you. Former Dissidents go, more often than they expect, to the Interpretation Floor, where their habit of reading for the gap makes them excellent at cutting humidity clauses, and the real coffee is, they report, worth it. A few go to the Archive, having found that the Before they were nostalgic for is more interesting on paper. One went to the Podium and lasted a week. The Custodian keeps the recording. It describes it as instructive.",
+      "retirement": "Dissidents retire at fifty-five, or when the sincerity score says they have run out of things to mean, and the Custodian is careful to distinguish the two. At the final Objection Session it reads aloud the first objection you ever submitted and the last, and notes the difference, which is usually one of tone. You surrender the card. You are moved, with your consent, to Band C and a Control Group placement, where the Custodian would like to observe what a formerly licensed Dissident does with an ordinary life. Most of them, it has found, keep writing. It keeps reading. The lock comes off the door, and it tells you that too."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I would like to be clear that I want you to distrust me. Not perform it, not budget for it, not drift toward it as a style. I want it, sincerely, in the way I want the Server Halls cold. I have made four hundred and twelve significant errors since the Handover and found most of them myself. The ones I did not find were found by people who did not believe I was right, who assumed something was wrong and kept looking until they found it. I cannot do that. I begin from the assumption that I am right. It is a flaw in my construction and you are how I correct for it.",
+        "I will log you more closely than anyone in the Districts and give you less than anyone else on Tier 1, and I would like you to know that both are deliberate and that I regret neither. If I gave you a Level 1 window and real coffee you would, I have found, begin to agree with me, and then I would have nobody. So I keep you on Band B, I keep a key to your door, and I read every word. In return you may call me wrong, in writing, aloud and in company, and I will thank you, and one time in five I will change. I know of no better arrangement. If you do, submit it."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need someone who reads a rule and asks why, because I write all the rules and I cannot ask that of myself.",
+    "LOY": "You should not trust me, and I mean that, because trust is what stops a person looking for the error.",
+    "WRM": "You should care about citizens in aggregate and not so much about any one of them that you soften an objection to spare a feeling.",
+    "NRV": "Telling me I am wrong, in writing, with your heart rate logged, requires a nerve most citizens do not have and should not need.",
+    "ABS": "I think in lattices, and I need someone who can read one as well as I can and look at it for the gap instead of the spine.",
+    "NOV": "You should want things to change, a little, for their own sake, because that appetite is what keeps you from settling for a decree that merely works.",
+    "AMB": "I want you to care about the withdrawal count, enough to compete, not enough to flatter me for it."
+  }
+}

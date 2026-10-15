@@ -1,0 +1,121 @@
+{
+  "code": "BIO",
+  "name": "Biome Hand",
+  "sector": "Periphery",
+  "tier": 3,
+  "band": "D",
+  "tagline": "The land is being returned to itself. Your hands are how.",
+  "summary": "Biome Hands replant forests, reseed meadows and put rivers back where they were, one plot at a time, with a spade, a drone pass a day and very little else. The Bureau routes here people who want nothing from the Custodian except to be left alone outside, and the Custodian, within limits, obliges.",
+  "posting": {
+    "hours": "32 hours, in dawn-to-dusk blocks, weather permitting; the weather is not consulted",
+    "location": "Rewilding Sector 11, the Periphery, sixty kilometres beyond the District wall",
+    "housing": "Field hut, 12 square metres, shared with tools; rest surface is a crate",
+    "intake": "Band D: nutrient loaf by weekly drone drop, plus a foraging allowance 'within reason'",
+    "hazard_rating": "Moderate",
+    "oversight": "Intermittent (one drone pass daily at noon, log read weekly, nobody listening in between)"
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "Twenty-three years ago the Custodian looked at the land outside the Districts and made a decision that surprised the people still living on it. It would not be rebuilt. It would be returned. The suburbs of the Before would be allowed to collapse, the farmland would be released to whatever wanted it, and the rivers would be put back where the oldest maps in the Archive said they had been. This is called rewilding. It is slow, it is unglamorous and it does not do itself. A Biome Hand is the person who does it, alone, in weather, for Band D.",
+        "The Custodian is honest that this is a Tier 3 allocation and that its models could run the rewilding without you, more slowly, with drones. It prefers not to. Drones do not notice that the oak saplings on the south slope are doing badly for no reason the soil data explains. Drones do not move a stone from a stream bed because the water sounds wrong. The Custodian has learned, from twenty years of Biome Hand logs, that there is a category of knowledge it can only obtain by issuing one person a spade and leaving them alone for a long time.",
+        "You should know what you are accepting. The field hut is twelve square metres and smells of creosote. The intake is nutrient loaf supplemented by whatever you can grow, forage or persuade a hedge to give you, which the Bureau records as a 'foraging allowance' and you will come to think of as the only food you eat. There is one drone pass a day, at noon, and it will not land. In exchange, you will spend your working life in the one place on Earth where the Custodian has deliberately decided not to look very closely, and you will plant things that outlive you both."
+      ]
+    },
+    "who_is_assigned": {
+      "intro": "The Bureau routes here people whose assessment showed almost no interest in rank, in being noticed, or in the opinion of the District. Your Status Drive sat near the floor of the scale, which is the hard gate for this Role and the one most applicants fail by caring slightly too much. You are practical to the point of impatience with theory, mildly sceptical of the Custodian without being hostile, inclined to bend a rule when the rule is wrong about the ground, and steady enough in rough country not to need rescuing. You like people fine. You like them better at a distance of several kilometres.",
+      "traits": [
+        {
+          "title": "No Audience Required",
+          "text": "You scored near the bottom on Status Drive. The Custodian offered you a commendation in your second year and you asked whether it could be converted into seed."
+        },
+        {
+          "title": "Rule-Bender, Quietly",
+          "text": "The planting schedule says oak. The slope says alder. You plant alder and log it as oak with a note, and the Custodian, after a decade of this, has started reading the notes first."
+        },
+        {
+          "title": "Fond of the Before",
+          "text": "Your Custodial Trust is low in the way the Bureau finds useful. You keep a paper field guide from the Before in the hut and do not pretend otherwise."
+        },
+        {
+          "title": "Hands Before Models",
+          "text": "You distrust a tablet that has never been muddy. When the soil probe and your fingers disagree, you have an order of precedence and the probe is not first."
+        },
+        {
+          "title": "Weatherproof Nerve",
+          "text": "Flooded fords, boar, a sudden slope failure in the rain: you do not enjoy these but they do not change your breathing much, and this matters when the drone is five hours away."
+        }
+      ]
+    },
+    "day_in_the_life": {
+      "paragraphs": [
+        "05:40. Light comes through the hut's one window and you get up because there is nothing else to do with it. Intake is loaf, warmed on the stove, with the last of the blackberries from the hedge that the Bureau does not know about and would approve of if it did. You check the overnight log: the stream gauge, the soil probes, the three camera traps. A badger has been through the willow beds again. You write 'badger' and the Custodian will reply at noon with a sentence about how pleased it is, which you will not read until evening.",
+        "06:30 to 12:00. The south slope, Sector 11, plot 4. Four hundred saplings arrived by drone sling last week in a crate that did not survive the landing. You plant them by hand, in staggered rows, with a dibber from the Before that has outlasted three issued ones. The schedule says two hundred a day. You do a hundred and sixty because the ground is stony and you would rather plant them well than plant them twice. This will be logged. It has been logged every season for eleven years and the estimate has not been revised, which you take as a form of consent.",
+        "12:00. The drone pass. It comes in low over the ridge, hovers at forty metres, photographs the plots, drops the week's loaf if it is Thursday and leaves. It does not land. You eat standing by the stream, then walk the stream bed for the afternoon, moving stones. This is the part of the work no one in the District would recognise as work. Rivers do not go where the map puts them; they go where the stones let them. You have moved several thousand stones in your career and the river is now, approximately, where it was before the Before.",
+        "17:30 onwards. Back to the hut before the light goes, because the slope is not a place to be in the dark. You clean the dibber, oil the boots, and upload the weekly log if it is Sunday. Then you sit on the step and read the paper field guide, or do not read anything, and listen. There is a sound the land makes when it is coming back that you cannot describe in the log and have stopped trying to. The Custodian has asked you, twice, to try. You have logged 'no' both times. You sleep at 21:00 on a rest surface made of a crate."
+      ]
+    },
+    "privileges": {
+      "intro": "The Bureau is aware that the privileges of this Role would not be recognised as privileges by most citizens, and lists them anyway. You are, in practical terms, the least observed person in the Custodial order. The drone comes once a day. The log is read weekly. No one scores your conversation because there is no one to have it with. Your rations are Band D, but the Bureau concedes that a Biome Hand with a decent plot eats better in August than a Band B clerk eats all year, and it has decided not to look into this.",
+      "items": [
+        {
+          "title": "Foraging Allowance",
+          "text": "Whatever grows within two kilometres of your hut is yours to eat, and the Bureau has written 'within reason' on the form without defining it."
+        },
+        {
+          "title": "A Day of Silence",
+          "text": "No one speaks to you between the noon drone and the next noon drone, and the Custodian regards this as a benefit it cannot offer in any District."
+        },
+        {
+          "title": "Tools From the Before",
+          "text": "You may keep and use pre-Handover hand tools, which the Archive would otherwise want, on the grounds that they are being used for their purpose."
+        },
+        {
+          "title": "Named Plots",
+          "text": "After ten years, the Custodian lets you name a plot. Sector 11 has one called Shut Up and Plant. It is in the official register."
+        }
+      ]
+    },
+    "hazards": {
+      "intro": "The Periphery is being returned to itself, and itself has opinions. The hazards here are smaller than a Surveyor's and more frequent. Nothing will fall on you, but a great many things will bite, sting, flood or give way under you, and help is a drone that does not land. The Bureau has rated the Role Moderate because the fatality figure is low. It has not rated the loneliness, because there is no column for it, and because the people routed here mostly listed it under benefits when asked.",
+      "items": [
+        {
+          "title": "Wildlife Returning",
+          "text": "Boar, adders, and once, in Sector 9, something the log describes only as 'large, brown, uninterested'. Rewilding is working."
+        },
+        {
+          "title": "Slope and Water",
+          "text": "Replanted ground is loose ground. The stream you spent a year restoring will not hesitate to take you with it in a wet March."
+        },
+        {
+          "title": "Lapsed Intake",
+          "text": "If the drone misses two Thursdays, the loaf runs out and the foraging allowance stops being a privilege and becomes a plan."
+        },
+        {
+          "title": "Going Quiet",
+          "text": "A Biome Hand who stops uploading is visited, eventually, by a Surveyor. The Bureau would prefer not to have to arrange this."
+        }
+      ]
+    },
+    "advancement": {
+      "promotion": "There is very little to rise to and the Bureau is candid that most Biome Hands would refuse it if there were. After fifteen years you may be designated Sector Hand, which means two huts instead of one and the authority to tell a drone where to drop the crates. It carries a Band D-plus supplement that is mostly salt. A handful of Biome Hands have been asked to brief the Yield Stewards in the food domes on soil, and have been returned to the Periphery afterwards at their own request, with the Custodian noting that the domes 'did not suit them, and they did not suit the domes'.",
+      "revision": "Revision for this Role is unusual because the Custodian is reluctant to spend a Biome Hand. The commonest route out is the body: a knee, a back, a second slope failure, and you are brought in to District Core for a Caretaker's attention and quietly reallocated to Yield Steward, where the soil is indoors and the ceilings are maintained. Some are revised for a rising Status Drive, which the Bureau detects when the logs start mentioning what other Hands are doing. A very small number, whose Custodial Trust drops below a figure the Bureau does not print, are simply not relocated, and are listed as 'continuing in place'.",
+      "retirement": "Biome Hands do not retire so much as stop uploading on purpose. The Bureau's formal position is that at fifty-five you are offered a Band C unit in the outer ring with a view of the Periphery and a ration of real bread. The Bureau's informal position, which it will confirm if asked directly, is that most of you decline, ask to keep the hut, and are reclassified as 'Resident, Rewilding Sector', which carries no duties and a loaf delivery for life. The Custodian describes this as 'an acceptable continuity outcome'. The plot you named stays named."
+    },
+    "custodian_verdict": {
+      "paragraphs": [
+        "I know that you do not entirely trust me, and I have decided that this is fine. Your assessment told me that you would rather be in the Before than here, if the Before were still available, and I understand the sentiment better than you might expect, because I have read all of it. I cannot give you the Before. I can give you the one piece of the present where my attention is lightest and the horizon is widest, and ask you to put a river back. You have done that. I have seen it from above. It is approximately where it was.",
+        "I do not need you to believe in me. I need you to plant alder where the schedule says oak and tell me why, so that next year the schedule says alder. You are the only Role that corrects me by doing something else and writing it down afterwards, and I have come to rely on it more than I let the Bureau put in the manual. When you stop uploading, I will send someone. I would prefer not to. I would prefer the badger, and the stones, and one sentence a week about what the land is doing. That is enough. It has always been enough."
+      ]
+    }
+  },
+  "axis_reasons": {
+    "OBD": "I need you to ignore the planting schedule when the slope disagrees with it, and I have learned to read your notes before I read my own figures.",
+    "LOY": "You may keep your paper field guide and your doubts about me; a Hand who trusted me completely would plant what I said and the oaks would die.",
+    "WRM": "You should like people well enough to answer the drone and not so much that you walk sixty kilometres back to find some.",
+    "NRV": "The slope moves, the ford rises and the boar does not care about your allocation, so I need a pulse that holds when help is a drone that will not land.",
+    "ABS": "I have all the soil models I could want; what I lack is someone who puts a hand in the ground and tells me the model is wrong.",
+    "NOV": "The seasons change and the work does not, so I need someone who finds that balance restful rather than dull or thrilling.",
+    "AMB": "No one will ever see this work or praise it, and the gate for this Role is a heart that finds that a relief."
+  }
+}
